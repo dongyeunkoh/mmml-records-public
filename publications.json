@@ -1,0 +1,5983 @@
+{
+  "content_sha256": "22c8f3dd4044dc277b5ab47fb4cb5da1cce4a0a2608e0490cf792726a3084531",
+  "owner_indices": {
+    "W-0C3WSY": [],
+    "W-0CMQXZ": [],
+    "W-0F9XNK": [],
+    "W-0GT3EA": [
+      7
+    ],
+    "W-0V8V8G": [
+      5
+    ],
+    "W-0V9MTG": [],
+    "W-1C2FY7": [
+      5
+    ],
+    "W-1G6M0C": [],
+    "W-1HAY84": [],
+    "W-1PGC0G": [],
+    "W-1YTCXA": [
+      2
+    ],
+    "W-27DM6F": [
+      5
+    ],
+    "W-2W74Z5": [],
+    "W-3HHT53": [],
+    "W-3MXD00": [],
+    "W-415V3A": [],
+    "W-46AC9N": [],
+    "W-477M3N": [
+      5
+    ],
+    "W-4AN2PX": [
+      5
+    ],
+    "W-4C2AGG": [],
+    "W-4JZVH3": [],
+    "W-4MCK0S": [],
+    "W-4X605W": [],
+    "W-4YX8SA": [
+      7
+    ],
+    "W-51REZW": [
+      6
+    ],
+    "W-5B1BMF": [],
+    "W-5M19TP": [
+      5
+    ],
+    "W-5QRJR9": [
+      4
+    ],
+    "W-5SMDF7": [],
+    "W-71YYGX": [],
+    "W-73A020": [
+      5
+    ],
+    "W-7AW8Y1": [
+      1
+    ],
+    "W-7TDXE9": [
+      4
+    ],
+    "W-8141QX": [
+      6
+    ],
+    "W-91EJWJ": [],
+    "W-936HXW": [
+      7
+    ],
+    "W-9E4MDW": [],
+    "W-ABK1FG": [],
+    "W-ACKXAC": [
+      3
+    ],
+    "W-AQH987": [],
+    "W-BB3XJP": [],
+    "W-BKB7NT": [],
+    "W-C08ZAY": [
+      2
+    ],
+    "W-C9MN50": [],
+    "W-CGG0HJ": [],
+    "W-CVHXQG": [
+      4
+    ],
+    "W-DAE3H7": [],
+    "W-DE0BMH": [
+      5
+    ],
+    "W-DYC6NB": [
+      7
+    ],
+    "W-E488ZG": [
+      5
+    ],
+    "W-EMA4FE": [],
+    "W-F4BY1X": [
+      4
+    ],
+    "W-FVKZD4": [
+      5
+    ],
+    "W-G63M9V": [],
+    "W-GB74EH": [],
+    "W-GTR37D": [],
+    "W-H6TPMW": [],
+    "W-HBCK8V": [],
+    "W-HBCZCM": [],
+    "W-HDMDGM": [],
+    "W-HSSXEV": [
+      5
+    ],
+    "W-J31PBC": [],
+    "W-JG6BW2": [],
+    "W-JP2BKH": [
+      7
+    ],
+    "W-JPWSMR": [],
+    "W-JYPY96": [],
+    "W-K9DW3K": [],
+    "W-KP5WHE": [],
+    "W-KZM9FM": [
+      6
+    ],
+    "W-M457H3": [
+      3
+    ],
+    "W-NDGW05": [
+      6
+    ],
+    "W-NM61N9": [],
+    "W-NQE464": [
+      3
+    ],
+    "W-NTZ8VH": [
+      6
+    ],
+    "W-NV662R": [],
+    "W-NYV2R9": [
+      1
+    ],
+    "W-Q9DR4H": [
+      10
+    ],
+    "W-QDC1Y2": [
+      5
+    ],
+    "W-QNFXQ6": [
+      8
+    ],
+    "W-R668QT": [
+      5
+    ],
+    "W-RGD8YH": [],
+    "W-RP8WFE": [],
+    "W-RSZXMP": [],
+    "W-SBQYER": [
+      4
+    ],
+    "W-SDJFQK": [
+      4
+    ],
+    "W-SJ4G57": [],
+    "W-T50D8A": [],
+    "W-TQ8059": [],
+    "W-WBAEF3": [
+      2
+    ],
+    "W-WKKMTY": [],
+    "W-WMGJWE": [],
+    "W-WP2A3Z": [
+      5
+    ],
+    "W-WZ1WJK": [],
+    "W-XMJRTE": [
+      10
+    ],
+    "W-XSBSRD": [],
+    "W-XX81KX": [],
+    "W-XXMYM6": [],
+    "W-Y4MHVA": [],
+    "W-Y8KY75": [
+      1
+    ],
+    "W-YA4WT9": [],
+    "W-YE9Y8F": [],
+    "W-YMA0QD": [],
+    "W-YSRBFY": [],
+    "W-ZED59V": [],
+    "W-ZGEJGM": [],
+    "W-ZJEA37": [
+      6
+    ],
+    "W-ZZSYHE": [
+      2
+    ]
+  },
+  "papers": [
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Dong-Yeun Koh",
+          "first": true
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Hyery Kang",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Juwoon Park",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Woongchul Shin",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Huen Lee",
+          "first": null
+        }
+      ],
+      "doi": "10.1021/ja300567b",
+      "id": "W-0C3WSY",
+      "issue": "12",
+      "journal": "Journal of the American Chemical Society",
+      "pages": "5560-5562",
+      "published_issue": "2012-03-28",
+      "published_online": "2012-03-19",
+      "representative": null,
+      "schema": 1,
+      "title": "Atomic Hydrogen Production from Semi-clathrate Hydrates",
+      "type": "journal-article",
+      "volume": "134"
+    },
+    {
+      "article_number": "164094",
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": null,
+          "display": "Iyan Subiyanto",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": null,
+          "display": "Winda Devina",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": null,
+          "display": "Yooseob Won",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": null,
+          "display": "Dong-Kyu Moon",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": null,
+          "display": "Jin Hong Jung",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": null,
+          "display": "Sung-Eun Kim",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": null,
+          "display": "Sung-Ho Jo",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": null,
+          "display": "Dong-Ho Lee",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": null,
+          "display": "Jae-Young Kim",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": null,
+          "display": "Yu-Ri Lee",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": null,
+          "display": "HakJoo Kim",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        },
+        {
+          "cofirst": null,
+          "corresponding": null,
+          "display": "Young Cheol Park",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": null,
+          "display": "Hyunuk Kim",
+          "first": null
+        }
+      ],
+      "doi": "10.1016/j.cej.2025.164094",
+      "id": "W-0CMQXZ",
+      "issue": null,
+      "journal": "Chemical Engineering Journal",
+      "pages": "164094",
+      "published_issue": "2025-07",
+      "published_online": null,
+      "representative": null,
+      "schema": 1,
+      "title": "Supramolecular absorbent with dynamic motion for high-purity CO2 recovery from air",
+      "type": "journal-article",
+      "volume": "516"
+    },
+    {
+      "article_number": "120639",
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Kyunam Kim",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Young-Eun Hwang",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Young Hun Lee",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Seong-Jun Park",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Daeok Kim",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        }
+      ],
+      "doi": "10.1016/j.seppur.2022.120639",
+      "id": "W-0F9XNK",
+      "issue": null,
+      "journal": "Separation and Purification Technology",
+      "pages": "120639",
+      "published_issue": "2022-05",
+      "published_online": "2022-02-15",
+      "representative": null,
+      "schema": 1,
+      "title": "All-Nanoporous fiber sorbent with a Non-Sacrificial polymer of intrinsic microporosity (PIM) matrix",
+      "type": "journal-article",
+      "volume": "289"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Young Hun Lee",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "YongSung Kwon",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Chaehoon Kim",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Young-Eun Hwang",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Minkee Choi",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "YouIn Park",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Aqil Jamal",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        }
+      ],
+      "doi": "10.1021/jacsau.1c00068",
+      "id": "W-0GT3EA",
+      "issue": "8",
+      "journal": "JACS Au",
+      "pages": "1198-1207",
+      "published_issue": "2021-08-23",
+      "published_online": "2021-06-21",
+      "representative": null,
+      "schema": 1,
+      "title": "Controlled Synthesis of Metal–Organic Frameworks in Scalable Open-Porous Contactor for Maximizing Carbon Capture Efficiency",
+      "type": "journal-article",
+      "volume": "1"
+    },
+    {
+      "article_number": "162558",
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "YongSung Kwon",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Daehun Kim",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Injun Park",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "YouIn Park",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "SeungEun Nam",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        }
+      ],
+      "doi": "10.1016/j.cej.2025.162558",
+      "id": "W-0V8V8G",
+      "issue": null,
+      "journal": "Chemical Engineering Journal",
+      "pages": "162558",
+      "published_issue": "2025-05",
+      "published_online": "2025-04-14",
+      "representative": null,
+      "schema": 1,
+      "title": "Facile membrane upscaling via in-situ synthesis of PVA hydrogel for harsh solvent separation: From transport study to industrial application",
+      "type": "journal-article",
+      "volume": "512"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Sun-Hwa Yeon",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Jiwoong Seol",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Youngjune Park",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Young Soo Kang",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Huen Lee",
+          "first": null
+        }
+      ],
+      "doi": "10.1021/ja802952p",
+      "id": "W-0V9MTG",
+      "issue": "29",
+      "journal": "Journal of the American Chemical Society",
+      "pages": "9208-9209",
+      "published_issue": "2008-07-01",
+      "published_online": "2008-06-26",
+      "representative": null,
+      "schema": 1,
+      "title": "Spectroscopic Observation of Atomic Hydrogen Radicals Entrapped in Icy Hydrogen Hydrate",
+      "type": "journal-article",
+      "volume": "130"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Banseok Oh",
+          "first": true
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "YongSung Kwon",
+          "first": false
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Young-Eun Hwang",
+          "first": false
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "You-In Park",
+          "first": false
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Seung-Eun Nam",
+          "first": false
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        }
+      ],
+      "doi": "10.1021/acs.iecr.5c04385",
+      "id": "W-1C2FY7",
+      "issue": "4",
+      "journal": "Industrial & Engineering Chemistry Research",
+      "pages": "2303-2314",
+      "published_issue": "2026-02-04",
+      "published_online": "2026-01-21",
+      "representative": null,
+      "schema": 1,
+      "title": "Dehydration of Ethylene Glycol Using Sodium-Mediated Hydrophilic Carbon Molecular Sieve Membranes",
+      "type": "journal-article",
+      "volume": "65"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Dong‐Yeun Koh",
+          "first": true
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Yun‐Ho Ahn",
+          "first": false
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Hyery Kang",
+          "first": false
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Seongmin Park",
+          "first": false
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Joo Yong Lee",
+          "first": false
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Se‐Joon Kim",
+          "first": false
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Jaehyoung Lee",
+          "first": false
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Huen Lee",
+          "first": false
+        }
+      ],
+      "doi": "10.1002/aic.14687",
+      "id": "W-1G6M0C",
+      "issue": "3",
+      "journal": "AIChE Journal",
+      "pages": "1004-1014",
+      "published_issue": "2015-03",
+      "published_online": "2014-11-29",
+      "representative": null,
+      "schema": 1,
+      "title": "One-Dimensional Productivity Assessment for On-Field Methane Hydrate Production Using CO<sub>2</sub>/N<sub>2</sub> Mixture Gas",
+      "type": "journal-article",
+      "volume": "61"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Jiwoong Seol",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Woongchul Shin",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Hyery Kang",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Boram Sung",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Huen Lee",
+          "first": null
+        }
+      ],
+      "doi": "10.1021/jp207450e",
+      "id": "W-1HAY84",
+      "issue": "1",
+      "journal": "The Journal of Physical Chemistry C",
+      "pages": "1439-1444",
+      "published_issue": "2012-01-12",
+      "published_online": "2011-12-30",
+      "representative": null,
+      "schema": 1,
+      "title": "Spectroscopic Observation of Na Cations Entrapped in Small Cages of sII Propane Hydrate",
+      "type": "journal-article",
+      "volume": "116"
+    },
+    {
+      "article_number": "100903",
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Jimin Park",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Young-Eun Hwang",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        }
+      ],
+      "doi": "10.1016/j.coche.2023.100903",
+      "id": "W-1PGC0G",
+      "issue": null,
+      "journal": "Current Opinion in Chemical Engineering",
+      "pages": "100903",
+      "published_issue": "2023-06",
+      "published_online": "2023-03-02",
+      "representative": null,
+      "schema": 1,
+      "title": "Interfacial synthesis: a scalable fabrication method of two-dimensional membranes",
+      "type": "journal-article",
+      "volume": "40"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Min-Jun Jang",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Hyeokjun Seo",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        }
+      ],
+      "doi": "10.1021/acs.iecr.4c01539",
+      "id": "W-1YTCXA",
+      "issue": "27",
+      "journal": "Industrial & Engineering Chemistry Research",
+      "pages": "12166-12176",
+      "published_issue": "2024-07-10",
+      "published_online": "2024-06-28",
+      "representative": null,
+      "schema": 1,
+      "title": "Separation of Liquid Xylene Isomers Using Thin-Film Composite Carbon Molecular Sieve Hollow Fiber Membranes",
+      "type": "journal-article",
+      "volume": "63"
+    },
+    {
+      "article_number": "124298",
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Min-Jun Jang",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Yu Chen",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Jihoon Choi",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Hyeokjun Seo",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Yongchul G. Chung",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        }
+      ],
+      "doi": "10.1016/j.memsci.2025.124298",
+      "id": "W-27DM6F",
+      "issue": null,
+      "journal": "Journal of Membrane Science",
+      "pages": "124298",
+      "published_issue": "2025-09",
+      "published_online": "2025-06-03",
+      "representative": null,
+      "schema": 1,
+      "title": "Enhancing interchain interactions in spirobifluorene-based microporous polyimides for high-performance organic solvent nanofiltration",
+      "type": "journal-article",
+      "volume": "733"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Dong-Yeun Koh",
+          "first": true
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Hyery Kang",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Juwoon Park",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Seonghoon Jung",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Daehoon Han",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Jaehun Park",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Huen Lee",
+          "first": null
+        }
+      ],
+      "doi": "10.1039/c3ra40516h",
+      "id": "W-2W74Z5",
+      "issue": "23",
+      "journal": "RSC Advances",
+      "pages": "8857–8863",
+      "published_issue": "2013-06-21",
+      "published_online": "2013-04-02",
+      "representative": null,
+      "schema": 1,
+      "title": "Guest molecule dynamics and guest-specific degassing phenomenon of binary gas hydrate investigated by terahertz time-domain spectroscopy",
+      "type": "journal-article",
+      "volume": "3"
+    },
+    {
+      "article_number": "136673",
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Jimin Park",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Joon-Hyun Park",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Young-Eun Hwang",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        }
+      ],
+      "doi": "10.1016/j.seppur.2025.136673",
+      "id": "W-3HHT53",
+      "issue": null,
+      "journal": "Separation and Purification Technology",
+      "pages": "136673",
+      "published_issue": "2026-04",
+      "published_online": "2025-12-26",
+      "representative": null,
+      "schema": 1,
+      "title": "Overcoming water co-transport in PIM-1/PVDF composite membranes for sustainable ammonia recovery from wastewater",
+      "type": "journal-article",
+      "volume": "387"
+    },
+    {
+      "article_number": "167052",
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Jeong-Un Jang",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Jungseob So",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Huiryung Heo",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Chun-Jae Yoo",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Young Woo You",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Young Jin Kim",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        }
+      ],
+      "doi": "10.1016/j.cej.2025.167052",
+      "id": "W-3MXD00",
+      "issue": null,
+      "journal": "Chemical Engineering Journal",
+      "pages": "167052",
+      "published_issue": "2025-10",
+      "published_online": "2025-08-11",
+      "representative": null,
+      "schema": 1,
+      "title": "Atomically dispersed silver on nanosheet-stacked amorphous alumina for enhanced NOx reduction",
+      "type": "journal-article",
+      "volume": "521"
+    },
+    {
+      "article_number": "109944",
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Muhammad Hassan",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Sunghyun Yoon",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Yu Chen",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Pilseok Kim",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Hongryeol Yun",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Hyuk Taek Kwon",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Youn-Sang Bae",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Chung-Yul Yoo",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Chang Seop Hong",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Ki Bong Lee",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Yongchul G. Chung",
+          "first": null
+        }
+      ],
+      "doi": "10.1016/j.cpc.2025.109944",
+      "id": "W-415V3A",
+      "issue": null,
+      "journal": "Computer Physics Communications",
+      "pages": "109944",
+      "published_issue": "2026-02",
+      "published_online": "2025-11-11",
+      "representative": null,
+      "schema": 1,
+      "title": "AIM: A user-friendly GUI workflow program for isotherm fitting, mixture prediction, isosteric heat of adsorption estimation, and breakthrough simulation",
+      "type": "journal-article",
+      "volume": "319"
+    },
+    {
+      "article_number": "183475",
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Abdulrahman AlMashaan",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Aqil Jamal",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Jay H. Lee",
+          "first": null
+        }
+      ],
+      "doi": "10.1016/j.cej.2026.183475",
+      "id": "W-46AC9N",
+      "issue": null,
+      "journal": "Chemical Engineering Journal",
+      "pages": "183475",
+      "published_issue": "2026-10",
+      "published_online": "2026-10-23",
+      "representative": null,
+      "schema": 1,
+      "title": "Cycle-by-cycle optimization of direct air capture (DAC) operation under varying ambient air conditions",
+      "type": "journal-article",
+      "volume": null
+    },
+    {
+      "article_number": "158576",
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Sunggyu Lee",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Huiryung Heo",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Hyunjung Kim",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Jungseob So",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Jae W. Lee",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        }
+      ],
+      "doi": "10.1016/j.cej.2024.158576",
+      "id": "W-477M3N",
+      "issue": null,
+      "journal": "Chemical Engineering Journal",
+      "pages": "158576",
+      "published_issue": "2025-01",
+      "published_online": "2024-12-14",
+      "representative": null,
+      "schema": 1,
+      "title": "CuI-Embedded fiber sorbent with CO selective adsorption for High-Purity H2 recovery",
+      "type": "journal-article",
+      "volume": "503"
+    },
+    {
+      "article_number": "e71205",
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Inhwan Park",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Young Hun Lee",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Jung Hun Lee",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Seung‐Jeong Oh",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "T. Alan Hatton",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Dong‐Yeun Koh",
+          "first": false
+        }
+      ],
+      "doi": "10.1002/aenm.71205",
+      "id": "W-4AN2PX",
+      "issue": null,
+      "journal": "Advanced Energy Materials",
+      "pages": null,
+      "published_issue": "2026-06-19",
+      "published_online": "2026-06-19",
+      "representative": null,
+      "schema": 1,
+      "title": "A Compact Hollow Fiber Electrode Assembly Architecture for Continuous Electrochemical Marine Carbon Dioxide Removal",
+      "type": "journal-article",
+      "volume": null
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Yun-Ho Ahn",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Seokyoon Moon",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Sujin Hong",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Huen Lee",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Jae W. Lee",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Youngjune Park",
+          "first": null
+        }
+      ],
+      "doi": "10.1016/j.ensm.2019.06.007",
+      "id": "W-4C2AGG",
+      "issue": null,
+      "journal": "Energy Storage Materials",
+      "pages": "655-661",
+      "published_issue": "2020-01",
+      "published_online": "2019-06-06",
+      "representative": null,
+      "schema": 1,
+      "title": "One-step formation of hydrogen clusters in clathrate hydrates stabilized via natural gas blending",
+      "type": "journal-article",
+      "volume": "24"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Dong-Yeun Koh",
+          "first": true
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Hyery Kang",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Huen Lee",
+          "first": null
+        }
+      ],
+      "doi": "10.1007/s11814-014-0280-3",
+      "id": "W-4JZVH3",
+      "issue": "2",
+      "journal": "Korean Journal of Chemical Engineering",
+      "pages": "350-353",
+      "published_issue": "2015-02",
+      "published_online": "2015-01-21",
+      "representative": null,
+      "schema": 1,
+      "title": "Reactive radical cation transfer in the cages of icy clathrate hydrates",
+      "type": "journal-article",
+      "volume": "32"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Ari Chae",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Gwanwon Lee",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Cheol-Min Yang",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Sungho Lee",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Young-Kwan Kim",
+          "first": null
+        }
+      ],
+      "doi": "10.1007/s00216-020-03083-9",
+      "id": "W-4MCK0S",
+      "issue": "4",
+      "journal": "Analytical and Bioanalytical Chemistry",
+      "pages": "1193-1202",
+      "published_issue": "2021-02",
+      "published_online": "2021-01-06",
+      "representative": null,
+      "schema": 1,
+      "title": "Polyacrylonitrile-based carbon nanofibers as a matrix for laser desorption/ionization time-of-flight mass spectrometric analysis of small molecules under both positive and negative ionization modes",
+      "type": "journal-article",
+      "volume": "413"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Young-Eun Hwang",
+          "first": true
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        }
+      ],
+      "doi": "10.14579/membrane_journal.2025.35.4.405",
+      "id": "W-4X605W",
+      "issue": "4",
+      "journal": "Membrane Journal",
+      "pages": "405-418",
+      "published_issue": "2025-12-01",
+      "published_online": null,
+      "representative": null,
+      "schema": 1,
+      "title": "PIM-7 as a Redox Responsive Polymer Platform for CO<sub>2</sub> Capture",
+      "type": "journal-article",
+      "volume": "35"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": null,
+          "display": "Jisung Lee",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": null,
+          "display": "Wooseok Lee",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": null,
+          "display": "Seungho Back",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": null,
+          "display": "Seung Yeop Yi",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": null,
+          "display": "Seonggyu Lee",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": null,
+          "display": "Seongseop Kim",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": null,
+          "display": "Joonhee Moon",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        },
+        {
+          "cofirst": null,
+          "corresponding": null,
+          "display": "Kyeounghak Kim",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": null,
+          "display": "Seoin Back",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": null,
+          "display": "Jinwoo Lee",
+          "first": null
+        }
+      ],
+      "doi": "10.1039/d3ey00228d",
+      "id": "W-4YX8SA",
+      "issue": "1",
+      "journal": "EES Catalysis",
+      "pages": "276-285",
+      "published_issue": "2024",
+      "published_online": "2024",
+      "representative": null,
+      "schema": 1,
+      "title": "Activating iodine redox by enabling single-atom coordination to dormant nitrogen sites to realize durable zinc–iodine batteries",
+      "type": "journal-article",
+      "volume": "2"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Ari Chae",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Sehyun Doo",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Daesin Kim",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Tae Yun Ko",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Taegon Oh",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Seon Joon Kim",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Chong Min Koo",
+          "first": null
+        }
+      ],
+      "doi": "10.1021/acs.langmuir.2c02110",
+      "id": "W-51REZW",
+      "issue": "41",
+      "journal": "Langmuir",
+      "pages": "12657-12665",
+      "published_issue": "2022-10-18",
+      "published_online": "2022-10-07",
+      "representative": null,
+      "schema": 1,
+      "title": "Tunable Ti<sub>3</sub>C<sub>2</sub>T<sub><i>x</i></sub> MXene-Derived TiO<sub>2</sub> Nanocrystals at Controlled pH and Temperature",
+      "type": "journal-article",
+      "volume": "38"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Dong-Yeun Koh",
+          "first": true
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Hyery Kang",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Youngjune Park",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Huen Lee",
+          "first": null
+        }
+      ],
+      "doi": "10.1016/j.cplett.2014.02.011",
+      "id": "W-5B1BMF",
+      "issue": null,
+      "journal": "Chemical Physics Letters",
+      "pages": "16-19",
+      "published_issue": "2014-03",
+      "published_online": "2014-02-18",
+      "representative": null,
+      "schema": 1,
+      "title": "Effect of thermal history on lattice expansion and guest distribution of tetrahydrofuran clathrate hydrate with air molecules",
+      "type": "journal-article",
+      "volume": "597"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Young Hun Lee",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Jinhong Jeong",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Kyunam Kim",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Taehoon Hyun",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Aqil Jamal",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        }
+      ],
+      "doi": "10.1021/acs.chemmater.0c00183",
+      "id": "W-5M19TP",
+      "issue": "17",
+      "journal": "Chemistry of Materials",
+      "pages": "7081-7104",
+      "published_issue": "2020-09-08",
+      "published_online": "2020-07-16",
+      "representative": null,
+      "schema": 1,
+      "title": "Microporous Materials in Scalable Shapes: Fiber Sorbents",
+      "type": "journal-article",
+      "volume": "32"
+    },
+    {
+      "article_number": "2402980",
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Taehoon Hyun",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Junkil Park",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Jungseob So",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Jihan Kim",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Dong‐Yeun Koh",
+          "first": false
+        }
+      ],
+      "doi": "10.1002/advs.202402980",
+      "id": "W-5QRJR9",
+      "issue": "34",
+      "journal": "Advanced Science",
+      "pages": "e2402980",
+      "published_issue": "2024-09",
+      "published_online": "2024-07-08",
+      "representative": null,
+      "schema": 1,
+      "title": "Unexpected Molecular Sieving of Xylene Isomer Using Tethered Ligand in Polymer‐Metal–Organic Frameworks (polyMOFs)",
+      "type": "journal-article",
+      "volume": "11"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Kyunam Kim",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        }
+      ],
+      "doi": "10.14579/membrane_journal.2019.29.4.191",
+      "id": "W-5SMDF7",
+      "issue": "4",
+      "journal": "Membrane Journal",
+      "pages": "191-201",
+      "published_issue": "2019-08-31",
+      "published_online": null,
+      "representative": null,
+      "schema": 1,
+      "title": "Aging: Degradation of Permeability in Microporous Polymeric Membranes",
+      "type": "journal-article",
+      "volume": "29"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Hyeokjun Seo",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        }
+      ],
+      "doi": "10.1126/science.abq3186",
+      "id": "W-71YYGX",
+      "issue": "6597",
+      "journal": "Science",
+      "pages": "1053-1054",
+      "published_issue": "2022-06-03",
+      "published_online": null,
+      "representative": null,
+      "schema": 1,
+      "title": "Refining petroleum with membranes",
+      "type": "journal-article",
+      "volume": "376"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Sunggyu Lee",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Ilia Kevlishvili",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Heather J. Kulik",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Hee-Tak Kim",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Yongchul G. Chung",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        }
+      ],
+      "doi": "10.1039/d2ta05420e",
+      "id": "W-73A020",
+      "issue": "46",
+      "journal": "Journal of Materials Chemistry A",
+      "pages": "24802-24812",
+      "published_issue": "2022",
+      "published_online": "2022",
+      "representative": null,
+      "schema": 1,
+      "title": "Highly efficient bromine capture and storage using N-containing porous organic cages",
+      "type": "journal-article",
+      "volume": "10"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Hwa-Jin Choi",
+          "first": true
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        }
+      ],
+      "doi": "10.3390/membranes12040357",
+      "id": "W-7AW8Y1",
+      "issue": "4",
+      "journal": "Membranes",
+      "pages": "357",
+      "published_issue": "2022",
+      "published_online": "2022-03-24",
+      "representative": null,
+      "schema": 1,
+      "title": "Homochiral Metal-Organic Framework Based Mixed Matrix Membrane for Chiral Resolution",
+      "type": "journal-article",
+      "volume": "12"
+    },
+    {
+      "article_number": "4972",
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Banseok Oh",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Hyeokjun Seo",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Jihoon Choi",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Sunggyu Lee",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        }
+      ],
+      "doi": "10.1038/s41467-022-32703-4",
+      "id": "W-7TDXE9",
+      "issue": "1",
+      "journal": "Nature Communications",
+      "pages": "4972",
+      "published_issue": "2022-08-24",
+      "published_online": "2022-08-24",
+      "representative": null,
+      "schema": 1,
+      "title": "Electron-mediated control of nanoporosity for targeted molecular separation in carbon membranes",
+      "type": "journal-article",
+      "volume": "13"
+    },
+    {
+      "article_number": "100568",
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Injun Park",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Sunwoo Kim",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Byeongju Jeon",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Huiryung Heo",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Siyoung Q. Choi",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Jay H. Lee",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        }
+      ],
+      "doi": "10.1016/j.ccst.2026.100568",
+      "id": "W-8141QX",
+      "issue": null,
+      "journal": "Carbon Capture Science & Technology",
+      "pages": "100568",
+      "published_issue": "2026-03",
+      "published_online": "2026-01-07",
+      "representative": null,
+      "schema": 1,
+      "title": "Additive manufacturing of architected Ca(OH)2 monoliths for accelerated CO2 mineralization",
+      "type": "journal-article",
+      "volume": "18"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Sunggyu Lee",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        }
+      ],
+      "doi": "10.14579/membrane_journal.2025.35.4.379",
+      "id": "W-91EJWJ",
+      "issue": "4",
+      "journal": "Membrane Journal",
+      "pages": "379-386",
+      "published_issue": "2025-12-01",
+      "published_online": null,
+      "representative": null,
+      "schema": 1,
+      "title": "Solution-Processable Redox-Active Polyimides: Synthesis and CO<sub>2</sub> Responsive Properties",
+      "type": "journal-article",
+      "volume": "35"
+    },
+    {
+      "article_number": "eabb7369",
+      "authors": [
+        {
+          "cofirst": true,
+          "corresponding": false,
+          "display": "Songhyun Lee",
+          "first": true
+        },
+        {
+          "cofirst": true,
+          "corresponding": false,
+          "display": "Seung-Jae Shin",
+          "first": true
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Hoyong Baek",
+          "first": false
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Yeonwoo Choi",
+          "first": false
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Kyunglim Hyun",
+          "first": false
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Myungeun Seo",
+          "first": false
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Kyunam Kim",
+          "first": false
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Hyungjun Kim",
+          "first": false
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Minkee Choi",
+          "first": false
+        }
+      ],
+      "doi": "10.1126/sciadv.abb7369",
+      "id": "W-936HXW",
+      "issue": "28",
+      "journal": "Science Advances",
+      "pages": "eabb7369",
+      "published_issue": "2020-07-10",
+      "published_online": null,
+      "representative": null,
+      "schema": 1,
+      "title": "Dynamic metal-polymer interaction for the design of chemoselective and long-lived hydrogenation catalysts",
+      "type": "journal-article",
+      "volume": "6"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Seokyoon Moon",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Yun-Ho Ahn",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Heejoong Kim",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Sujin Hong",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Youngjune Park",
+          "first": null
+        }
+      ],
+      "doi": "10.1016/j.cej.2017.08.030",
+      "id": "W-9E4MDW",
+      "issue": null,
+      "journal": "Chemical Engineering Journal",
+      "pages": "890-898",
+      "published_issue": "2017-12",
+      "published_online": "2017-08-08",
+      "representative": null,
+      "schema": 1,
+      "title": "Secondary gaseous guest-dependent structures of binary neopentyl alcohol hydrates and their tuning behavior for potential application to CO2 capture",
+      "type": "journal-article",
+      "volume": "330"
+    },
+    {
+      "article_number": "120531",
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Ari Chae",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Hongje Jang",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Cheol-Min Yang",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Young-Kwan Kim",
+          "first": null
+        }
+      ],
+      "doi": "10.1016/j.talanta.2019.120531",
+      "id": "W-ABK1FG",
+      "issue": null,
+      "journal": "Talanta",
+      "pages": "120531",
+      "published_issue": "2020-03",
+      "published_online": "2019-11-03",
+      "representative": null,
+      "schema": 1,
+      "title": "Exfoliated MXene as a mediator for efficient laser desorption/ionization mass spectrometry analysis of various analytes",
+      "type": "journal-article",
+      "volume": "209"
+    },
+    {
+      "article_number": "eaee7783",
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Banseok Oh",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Hyeokjun Seo",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Jeongsu Wi",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        }
+      ],
+      "doi": "10.1126/sciadv.aee7783",
+      "id": "W-ACKXAC",
+      "issue": "35",
+      "journal": "Science Advances",
+      "pages": "eaee7783",
+      "published_issue": "2026-08-28",
+      "published_online": null,
+      "representative": null,
+      "schema": 1,
+      "title": "Plasma engineered carbon molecular sieve membranes for precise and stable hydrogen permeation",
+      "type": "journal-article",
+      "volume": "12"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Woongchul Shin",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Seongmin Park",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Hyeyoon Ro",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Jiwoong Seol",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Huen Lee",
+          "first": null
+        }
+      ],
+      "doi": "10.1016/j.jct.2011.08.018",
+      "id": "W-AQH987",
+      "issue": "1",
+      "journal": "The Journal of Chemical Thermodynamics",
+      "pages": "20-25",
+      "published_issue": "2012-01",
+      "published_online": "2011-08-24",
+      "representative": null,
+      "schema": 1,
+      "title": "Phase equilibrium measurements and the tuning behavior of new sII clathrate hydrates",
+      "type": "journal-article",
+      "volume": "44"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Dong-Yeun Koh",
+          "first": true
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Hyery Kang",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Huen Lee",
+          "first": null
+        }
+      ],
+      "doi": "10.1039/c3cc43376e",
+      "id": "W-BB3XJP",
+      "issue": "60",
+      "journal": "Chemical Communications",
+      "pages": "6782–6784",
+      "published_issue": "2013-08-04",
+      "published_online": "2013-06-07",
+      "representative": null,
+      "schema": 1,
+      "title": "Multiple guest occupancy in clathrate hydrates and its significance in hydrogen storage",
+      "type": "journal-article",
+      "volume": "49"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Kyuchul Shin",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Wonhee Lee",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Minjun Cha",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Yong Nam Choi",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Heeju Lee",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Bae Soon Son",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Seongsu Lee",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Huen Lee",
+          "first": null
+        }
+      ],
+      "doi": "10.1021/jp110737q",
+      "id": "W-BKB7NT",
+      "issue": "5",
+      "journal": "The Journal of Physical Chemistry B",
+      "pages": "958-963",
+      "published_issue": "2011-02-10",
+      "published_online": "2011-01-19",
+      "representative": null,
+      "schema": 1,
+      "title": "Thermal Expansivity of Ionic Clathrate Hydrates Including Gaseous Guest Molecules",
+      "type": "journal-article",
+      "volume": "115"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Hwa-Jin Choi",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Yun-Ho Ahn",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        }
+      ],
+      "doi": "10.3390/membranes11040279",
+      "id": "W-C08ZAY",
+      "issue": "4",
+      "journal": "Membranes",
+      "pages": "279",
+      "published_issue": "2021-04-10",
+      "published_online": "2021-04-10",
+      "representative": null,
+      "schema": 1,
+      "title": "Enantioselective Mixed Matrix Membranes for Chiral Resolution",
+      "type": "review",
+      "volume": "11"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Woongchul Shin",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Seongmin Park",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Jiwoong Seol",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Hyeyoon Ro",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Huen Lee",
+          "first": null
+        }
+      ],
+      "doi": "10.1021/jp205433j",
+      "id": "W-C9MN50",
+      "issue": "38",
+      "journal": "The Journal of Physical Chemistry C",
+      "pages": "18885-18889",
+      "published_issue": "2011-09-29",
+      "published_online": "2011-08-31",
+      "representative": null,
+      "schema": 1,
+      "title": "Water-Soluble Structure H Clathrate Hydrate Formers",
+      "type": "journal-article",
+      "volume": "115"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Dong-Yeun Koh",
+          "first": true
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Ryan P. Lively",
+          "first": false
+        }
+      ],
+      "doi": "10.1038/nnano.2015.77",
+      "id": "W-CGG0HJ",
+      "issue": "5",
+      "journal": "Nature Nanotechnology",
+      "pages": "385-386",
+      "published_issue": "2015-05",
+      "published_online": "2015-05-07",
+      "representative": null,
+      "schema": 1,
+      "title": "Membranes at the limit",
+      "type": "journal-article",
+      "volume": "10"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": null,
+          "display": "Daeuk Kang",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": null,
+          "display": "Huiryung Heo",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": null,
+          "display": "Euna Jeong",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": null,
+          "display": "Hee-Man Yang",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        },
+        {
+          "cofirst": null,
+          "corresponding": null,
+          "display": "Chan Woo Park",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": null,
+          "display": "Hyung-Ju Kim",
+          "first": null
+        }
+      ],
+      "doi": "10.1039/d6ma00202a",
+      "id": "W-CVHXQG",
+      "issue": "12",
+      "journal": "Materials Advances",
+      "pages": "6035-6044",
+      "published_issue": "2026",
+      "published_online": "2026",
+      "representative": null,
+      "schema": 1,
+      "title": "Hydrophobic block-structured PDMS/Pt mesoporous silica catalysts for sustainable water–hydrogen isotope exchange",
+      "type": "journal-article",
+      "volume": "7"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Hyery Kang",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Yun-Ho Ahn",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Seongheun Kim",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Jaehun Park",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Huen Lee",
+          "first": null
+        }
+      ],
+      "doi": "10.1021/acs.jpcc.5b05827",
+      "id": "W-DAE3H7",
+      "issue": "37",
+      "journal": "The Journal of Physical Chemistry C",
+      "pages": "21353-21357",
+      "published_issue": "2015-09-17",
+      "published_online": "2015-09-03",
+      "representative": null,
+      "schema": 1,
+      "title": "Optical Interpretation of the Chemical Process of CH<sub>4</sub>–CO<sub>2</sub> Exchange and Its Application to Gas Hydrate Production",
+      "type": "journal-article",
+      "volume": "119"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Injun Park",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Sieun Kim",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Karoline L. Hebisch",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Inhwan Park",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Minhyung Lee",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        }
+      ],
+      "doi": "10.1039/d6ta01777k",
+      "id": "W-DE0BMH",
+      "issue": "38",
+      "journal": "Journal of Materials Chemistry A",
+      "pages": "25024-25058",
+      "published_issue": "2026",
+      "published_online": "2026",
+      "representative": null,
+      "schema": 1,
+      "title": "Scale-bridging solid adsorbents for direct air capture: integrating material chemistry, structured contactors, and advanced regeneration processes",
+      "type": "review",
+      "volume": "14"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": true,
+          "corresponding": false,
+          "display": "Injun Park",
+          "first": true
+        },
+        {
+          "cofirst": true,
+          "corresponding": false,
+          "display": "Kyunam Kim",
+          "first": true
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Mujin Cheon",
+          "first": false
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Jinhong Jeong",
+          "first": false
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Karoline L. Hebisch",
+          "first": false
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Matthew J. Realff",
+          "first": false
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Ryan P. Lively",
+          "first": false
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        }
+      ],
+      "doi": "10.1021/acssuschemeng.5c11415",
+      "id": "W-DYC6NB",
+      "issue": "7",
+      "journal": "ACS Sustainable Chemistry & Engineering",
+      "pages": "3446-3456",
+      "published_issue": "2026-02-23",
+      "published_online": "2026-02-12",
+      "representative": null,
+      "schema": 1,
+      "title": "Sub-hour Rapid Cycling of Direct Air Capture Enabled by Engineered Hollow Fiber Sorbents",
+      "type": "journal-article",
+      "volume": "14"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Sunggyu Lee",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Jungseob So",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Hyunjung Kim",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Huiryung Heo",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Jae W. Lee",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        }
+      ],
+      "doi": "10.1021/acsami.5c21142",
+      "id": "W-E488ZG",
+      "issue": "4",
+      "journal": "ACS Applied Materials & Interfaces",
+      "pages": "6892-6900",
+      "published_issue": "2026-02-04",
+      "published_online": "2026-01-23",
+      "representative": null,
+      "schema": 1,
+      "title": "A Scalable and Cost-Effective Zeolite-Polymer Fiber Sorbent Enabled by Vapor-Induced Cu(I) Activation for Selective Acetylene Capture",
+      "type": "journal-article",
+      "volume": "18"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Yun-Ho Ahn",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Hyery Kang",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Huen Lee",
+          "first": null
+        }
+      ],
+      "doi": "10.1007/s11814-016-0029-2",
+      "id": "W-EMA4FE",
+      "issue": "6",
+      "journal": "Korean Journal of Chemical Engineering",
+      "pages": "1903-1907",
+      "published_issue": "2016-06",
+      "published_online": "2016-03-17",
+      "representative": null,
+      "schema": 1,
+      "title": "Experimental verifications of Mpemba-like behaviors of clathrate hydrates",
+      "type": "journal-article",
+      "volume": "33"
+    },
+    {
+      "article_number": "12",
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Taehoon Hyun",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Jinhong Jeong",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Ari Chae",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Young Kwan Kim",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        }
+      ],
+      "doi": "10.1186/s42480-019-0012-x",
+      "id": "W-F4BY1X",
+      "issue": "1",
+      "journal": "BMC Chemical Engineering",
+      "pages": null,
+      "published_issue": "2019-12",
+      "published_online": "2019-05-22",
+      "representative": null,
+      "schema": 1,
+      "title": "2D-enabled membranes: materials and beyond",
+      "type": "review",
+      "volume": "1"
+    },
+    {
+      "article_number": "e18546",
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Jimin Park",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Mujin Cheon",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "David Inhyuk Kim",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Daeseon Park",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Jay H. Lee",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Dong‐Yeun Koh",
+          "first": false
+        }
+      ],
+      "doi": "10.1002/aic.18546",
+      "id": "W-FVKZD4",
+      "issue": "11",
+      "journal": "AIChE Journal",
+      "pages": null,
+      "published_issue": "2024-11",
+      "published_online": "2024-08-13",
+      "representative": null,
+      "schema": 1,
+      "title": "Efficient extraction of hydrogen fluoride using hollow fiber membrane contactors with the aid of active‐learning",
+      "type": "journal-article",
+      "volume": "70"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Sun-Hwa Yeon",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Jiwoong Seol",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Young-ju Seo",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Youngjune Park",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Keun-Pil Park",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Dae-Gee Huh",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Jaehyoung Lee",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Huen Lee",
+          "first": null
+        }
+      ],
+      "doi": "10.1021/jp810079c",
+      "id": "W-G63M9V",
+      "issue": "5",
+      "journal": "The Journal of Physical Chemistry B",
+      "pages": "1245-1248",
+      "published_issue": "2009-02-05",
+      "published_online": "2009-01-09",
+      "representative": null,
+      "schema": 1,
+      "title": "Effect of Interlayer Ions on Methane Hydrate Formation in Clay Sediments",
+      "type": "journal-article",
+      "volume": "113"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Youngjune Park",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Joonghoe Dho",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Sun-Hwa Yeon",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Huen Lee",
+          "first": null
+        }
+      ],
+      "doi": "10.1007/s11814-015-0291-8",
+      "id": "W-GB74EH",
+      "issue": "5",
+      "journal": "Korean Journal of Chemical Engineering",
+      "pages": "1706-1711",
+      "published_issue": "2016-05",
+      "published_online": "2016-03-04",
+      "representative": null,
+      "schema": 1,
+      "title": "Tuning magnetism via selective injection into ice-like clathrate hydrates",
+      "type": "journal-article",
+      "volume": "33"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Hyery Kang",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Yun-Ho Ahn",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Seungjun Baek",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Jae W. Lee",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Huen Lee",
+          "first": null
+        }
+      ],
+      "doi": "10.1021/acs.iecr.6b01286",
+      "id": "W-GTR37D",
+      "issue": "21",
+      "journal": "Industrial & Engineering Chemistry Research",
+      "pages": "6079-6084",
+      "published_issue": "2016-06-01",
+      "published_online": "2016-05-18",
+      "representative": null,
+      "schema": 1,
+      "title": "Rapid Clathrate Hydrate Formation Using a Heavy Guest Molecule with Sodium Dodecyl Sulfate",
+      "type": "journal-article",
+      "volume": "55"
+    },
+    {
+      "article_number": "1700080",
+      "authors": [
+        {
+          "cofirst": true,
+          "corresponding": false,
+          "display": "Kiwon Eum",
+          "first": true
+        },
+        {
+          "cofirst": true,
+          "corresponding": false,
+          "display": "Chen Ma",
+          "first": true
+        },
+        {
+          "cofirst": true,
+          "corresponding": false,
+          "display": "Dong‐Yeun Koh",
+          "first": true
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Fereshteh Rashidi",
+          "first": false
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Zhong Li",
+          "first": false
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Christopher W. Jones",
+          "first": false
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Ryan P. Lively",
+          "first": false
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Sankar Nair",
+          "first": false
+        }
+      ],
+      "doi": "10.1002/admi.201700080",
+      "id": "W-H6TPMW",
+      "issue": "12",
+      "journal": "Advanced Materials Interfaces",
+      "pages": null,
+      "published_issue": "2017-06",
+      "published_online": "2017-04-20",
+      "representative": null,
+      "schema": 1,
+      "title": "Zeolitic Imidazolate Framework Membranes Supported on Macroporous Carbon Hollow Fibers by Fluidic Processing Techniques",
+      "type": "journal-article",
+      "volume": "4"
+    },
+    {
+      "article_number": "160840",
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Howoun Jung",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Kyunam Kim",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Jinhong Jeong",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Aqil Jamal",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Jay H. Lee",
+          "first": null
+        }
+      ],
+      "doi": "10.1016/j.cej.2025.160840",
+      "id": "W-HBCK8V",
+      "issue": null,
+      "journal": "Chemical Engineering Journal",
+      "pages": "160840",
+      "published_issue": "2025-03",
+      "published_online": "2025-02-19",
+      "representative": null,
+      "schema": 1,
+      "title": "Exploring the impact of hourly variability of air condition on the efficiency of direct air capture",
+      "type": "journal-article",
+      "volume": "508"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Minjun Cha",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Kyuchul Shin",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Minchul Kwon",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Boram Sung",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Huen Lee",
+          "first": null
+        }
+      ],
+      "doi": "10.1021/ja1004762",
+      "id": "W-HBCZCM",
+      "issue": "11",
+      "journal": "Journal of the American Chemical Society",
+      "pages": "3694-3696",
+      "published_issue": "2010-03-24",
+      "published_online": "2010-03-01",
+      "representative": null,
+      "schema": 1,
+      "title": "Superoxide Ions Entrapped in Water Cages of Ionic Clathrate Hydrates",
+      "type": "journal-article",
+      "volume": "132"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Dong‐Yeun Koh",
+          "first": true
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Hyery Kang",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Dae‐Ok Kim",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Juwoon Park",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Minjun Cha",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Huen Lee",
+          "first": null
+        }
+      ],
+      "doi": "10.1002/cssc.201100644",
+      "id": "W-HDMDGM",
+      "issue": "8",
+      "journal": "ChemSusChem",
+      "pages": "1443-1448",
+      "published_issue": "2012-08",
+      "published_online": "2012-06-22",
+      "representative": null,
+      "schema": 1,
+      "title": "Recovery of Methane from Gas Hydrates Intercalated within Natural Sediments Using CO<sub>2</sub> and a CO<sub>2</sub>/N<sub>2</sub> Gas Mixture",
+      "type": "journal-article",
+      "volume": "5"
+    },
+    {
+      "article_number": "100526",
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Jinhong Jeong",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Mujin Cheon",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Banseok Oh",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Aqil Jamal",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Jay H. Lee",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        }
+      ],
+      "doi": "10.1016/j.ccst.2025.100526",
+      "id": "W-HSSXEV",
+      "issue": null,
+      "journal": "Carbon Capture Science & Technology",
+      "pages": "100526",
+      "published_issue": "2025-12",
+      "published_online": "2025-09-30",
+      "representative": null,
+      "schema": 1,
+      "title": "Accelerating process design for direct air capture: Bayesian optimization of temperature-vacuum swing adsorption with fiber sorbents",
+      "type": "journal-article",
+      "volume": "17"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Achintya R. Sujan",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Guanghui Zhu",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Vinod P. Babu",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Neil Stephenson",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Andrew Rosinski",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Hai Du",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Yang Luo",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "William J. Koros",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Ryan P. Lively",
+          "first": null
+        }
+      ],
+      "doi": "10.1021/acs.iecr.8b02210",
+      "id": "W-J31PBC",
+      "issue": "34",
+      "journal": "Industrial & Engineering Chemistry Research",
+      "pages": "11757-11766",
+      "published_issue": "2018-08-29",
+      "published_online": "2018-08-15",
+      "representative": null,
+      "schema": 1,
+      "title": "High-Temperature Activation of Zeolite-Loaded Fiber Sorbents",
+      "type": "journal-article",
+      "volume": "57"
+    },
+    {
+      "article_number": "169165",
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Jihoon Choi",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Daehun Kim",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Keonwoo Choi",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Hyeokjun Seo",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Min-Jun Jang",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Hyoseok So",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Sung Gap Im",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Youngmin Yoo",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        }
+      ],
+      "doi": "10.1016/j.cej.2025.169165",
+      "id": "W-JG6BW2",
+      "issue": null,
+      "journal": "Chemical Engineering Journal",
+      "pages": "169165",
+      "published_issue": "2025-11",
+      "published_online": "2025-10-03",
+      "representative": null,
+      "schema": 1,
+      "title": "A strategic design of iCVD copolymers for high-performance organic solvent nanofiltration membranes with tunable permeance and selectivity",
+      "type": "journal-article",
+      "volume": "524"
+    },
+    {
+      "article_number": "e12815",
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Huiryung Heo",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Jeong‐un Jang",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Euna Jeong",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Hyung‐Ju Kim",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Young Jin Kim",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Chan Woo Park",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Jungseob So",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Dong‐Yeun Koh",
+          "first": false
+        }
+      ],
+      "doi": "10.1002/eem2.12815",
+      "id": "W-JP2BKH",
+      "issue": "2",
+      "journal": "Energy & Environmental Materials",
+      "pages": null,
+      "published_issue": "2025-03",
+      "published_online": "2024-06-28",
+      "representative": null,
+      "schema": 1,
+      "title": "Bifunctionally Hydrophobic MOF-Supported Platinum Catalyst for the Removal of Ultralow Concentration Hydrogen Isotope",
+      "type": "journal-article",
+      "volume": "8"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Dong-Yeun Koh",
+          "first": true
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Hyery Kang",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Jong-Won Lee",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Youngjune Park",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Se-Joon Kim",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Jaehyoung Lee",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Joo Yong Lee",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Huen Lee",
+          "first": null
+        }
+      ],
+      "doi": "10.1016/j.apenergy.2015.10.082",
+      "id": "W-JPWSMR",
+      "issue": null,
+      "journal": "Applied Energy",
+      "pages": "114-130",
+      "published_issue": "2016-01",
+      "published_online": "2015-11-11",
+      "representative": null,
+      "schema": 1,
+      "title": "Energy-efficient natural gas hydrate production using gas exchange",
+      "type": "journal-article",
+      "volume": "162"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Young-ju Seo",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Jiwoong Seol",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Sun-Hwa Yeon",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Minjun Cha",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Sung-Pil Kang",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Yu-Taek Seo",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Jang-jun Bahk",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Jaehyoung Lee",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Huen Lee",
+          "first": null
+        }
+      ],
+      "doi": "10.1021/je800833y",
+      "id": "W-JYPY96",
+      "issue": "4",
+      "journal": "Journal of Chemical & Engineering Data",
+      "pages": "1284-1291",
+      "published_issue": "2009-04-09",
+      "published_online": "2009-03-13",
+      "representative": null,
+      "schema": 1,
+      "title": "Structural, Mineralogical, and Rheological Properties of Methane Hydrates in Smectite Clays",
+      "type": "journal-article",
+      "volume": "54"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Melinda L. Jue",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Benjamin A. McCool",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Ryan P. Lively",
+          "first": null
+        }
+      ],
+      "doi": "10.1021/acs.chemmater.7b03456",
+      "id": "W-K9DW3K",
+      "issue": "23",
+      "journal": "Chemistry of Materials",
+      "pages": "9863-9876",
+      "published_issue": "2017-12-12",
+      "published_online": "2017-11-21",
+      "representative": null,
+      "schema": 1,
+      "title": "Enabling Widespread Use of Microporous Materials for Challenging Organic Solvent Separations",
+      "type": "perspective",
+      "volume": "29"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Woongchul Shin",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Kyuchul Shin",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Jiwoong Seol",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Seongmin Park",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Huen Lee",
+          "first": null
+        }
+      ],
+      "doi": "10.1021/jp1094273",
+      "id": "W-KP5WHE",
+      "issue": "5",
+      "journal": "The Journal of Physical Chemistry C",
+      "pages": "2558-2562",
+      "published_issue": "2011-02-10",
+      "published_online": "2011-01-06",
+      "representative": null,
+      "schema": 1,
+      "title": "Metastability of Ethane Clathrate Hydrate Induced by [Co(NH<sub>3</sub>)<sub>6</sub>]<sup>3+</sup> Complex",
+      "type": "journal-article",
+      "volume": "115"
+    },
+    {
+      "article_number": "2800",
+      "authors": [
+        {
+          "cofirst": true,
+          "corresponding": false,
+          "display": "Jihoon Choi",
+          "first": true
+        },
+        {
+          "cofirst": true,
+          "corresponding": false,
+          "display": "Keonwoo Choi",
+          "first": true
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "YongSung Kwon",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Daehun Kim",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Youngmin Yoo",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Sung Gap Im",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        }
+      ],
+      "doi": "10.1038/s41467-024-47115-9",
+      "id": "W-KZM9FM",
+      "issue": "1",
+      "journal": "Nature Communications",
+      "pages": "2800",
+      "published_issue": "2024-03-30",
+      "published_online": "2024-03-30",
+      "representative": true,
+      "schema": 1,
+      "title": "Ultrathin organosiloxane membrane for precision organic solvent nanofiltration",
+      "type": "journal-article",
+      "volume": "15"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Young-Eun Hwang",
+          "first": true
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Kyunam Kim",
+          "first": false
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Hyeokjun Seo",
+          "first": false
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        }
+      ],
+      "doi": "10.1021/acssuschemeng.0c05088",
+      "id": "W-M457H3",
+      "issue": "41",
+      "journal": "ACS Sustainable Chemistry & Engineering",
+      "pages": "15620-15629",
+      "published_issue": "2020-10-19",
+      "published_online": "2020-09-15",
+      "representative": null,
+      "schema": 1,
+      "title": "Solid Carbonation <i>via</i> Ultrapermeable PIM-1 Hollow Fiber Membranes for Scalable CO<sub>2</sub> Utilization",
+      "type": "journal-article",
+      "volume": "8"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Sehyun Doo",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Ari Chae",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Daesin Kim",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Taegon Oh",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Tae Yun Ko",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Seon Joon Kim",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Chong Min Koo",
+          "first": null
+        }
+      ],
+      "doi": "10.1021/acsami.1c04663",
+      "id": "W-NDGW05",
+      "issue": "19",
+      "journal": "ACS Applied Materials & Interfaces",
+      "pages": "22855-22865",
+      "published_issue": "2021-05-19",
+      "published_online": "2021-05-07",
+      "representative": null,
+      "schema": 1,
+      "title": "Mechanism and Kinetics of Oxidation Reaction of Aqueous Ti<sub>3</sub>C<sub>2</sub>T<sub><i>x</i></sub> Suspensions at Different pHs and Temperatures",
+      "type": "journal-article",
+      "volume": "13"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Hyery Kang",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Yun-Ho Ahn",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Huen Lee",
+          "first": null
+        }
+      ],
+      "doi": "10.1007/s11814-016-0028-3",
+      "id": "W-NM61N9",
+      "issue": "6",
+      "journal": "Korean Journal of Chemical Engineering",
+      "pages": "1897-1902",
+      "published_issue": "2016-06",
+      "published_online": "2016-03-29",
+      "representative": null,
+      "schema": 1,
+      "title": "Thermodynamic and spectroscopic identification of aldehyde hydrates",
+      "type": "journal-article",
+      "volume": "33"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Huiryung Heo",
+          "first": true
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Jeong-Un Jang",
+          "first": false
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Jungseob So",
+          "first": false
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        }
+      ],
+      "doi": "10.1021/acscatal.6c00375",
+      "id": "W-NQE464",
+      "issue": "5",
+      "journal": "ACS Catalysis",
+      "pages": "5168-5183",
+      "published_issue": "2026-03-06",
+      "published_online": "2026-02-25",
+      "representative": null,
+      "schema": 1,
+      "title": "Interface Engineering of Cu/CeO<sub>2</sub>−Al<sub>2</sub>O<sub>3</sub> for Mixed-Oxide Interface-Driven Associative CO<sub>2</sub> Activation in RWGS",
+      "type": "journal-article",
+      "volume": "16"
+    },
+    {
+      "article_number": "e09715",
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Hyeokjun Seo",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Yong Sung Kwon",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Min‐Jun Jang",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Huiryung Heo",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Jeong‐Un Jang",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Banseok Oh",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Dong‐Yeun Koh",
+          "first": false
+        }
+      ],
+      "doi": "10.1002/smll.202509715",
+      "id": "W-NTZ8VH",
+      "issue": "13",
+      "journal": "Small",
+      "pages": "e09715",
+      "published_issue": "2026-03",
+      "published_online": "2026-01-05",
+      "representative": null,
+      "schema": 1,
+      "title": "Directing Ultramicropore Architecture in Carbon Molecular Sieve Membranes with Lanthanum for High‐Fidelity Gas Separation",
+      "type": "journal-article",
+      "volume": "22"
+    },
+    {
+      "article_number": "2201163",
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Jiyun Heo",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Young‐Eun Hwang",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Gisu Doo",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Jinkwan Jung",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Kyungjae Shin",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Dong‐Yeun Koh",
+          "first": false
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Hee‐Tak Kim",
+          "first": null
+        }
+      ],
+      "doi": "10.1002/smll.202201163",
+      "id": "W-NV662R",
+      "issue": "25",
+      "journal": "Small",
+      "pages": "e2201163",
+      "published_issue": "2022-06-23",
+      "published_online": "2022-05-02",
+      "representative": null,
+      "schema": 1,
+      "title": "Modulation of Solvation Structure and Electrode Work Function by an Ultrathin Layer of Polymer of Intrinsic Microporosity in Zinc Ion Batteries",
+      "type": "journal-article",
+      "volume": "18"
+    },
+    {
+      "article_number": "eade7871",
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Chaehoon Kim",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Yongjin Lee",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Jihoon Choi",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Hae Sung Cho",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Minkee Choi",
+          "first": null
+        }
+      ],
+      "doi": "10.1126/sciadv.ade7871",
+      "id": "W-NYV2R9",
+      "issue": "6",
+      "journal": "Science Advances",
+      "pages": "eade7871",
+      "published_issue": "2023-02-10",
+      "published_online": null,
+      "representative": null,
+      "schema": 1,
+      "title": "Bottom-up synthesis of two-dimensional carbon with vertically aligned ordered micropores for ultrafast nanofiltration",
+      "type": "journal-article",
+      "volume": "9"
+    },
+    {
+      "article_number": "123731",
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Young Sang Park",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Ari Chae",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Gwan Hyun Choi",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Swetarekha Ram",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Seung-Cheol Lee",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Satadeep Bhattacharjee",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Jiyoon Jung",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Hyo Sang Jeon",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Cheol-Hee Ahn",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Seung Sang Hwang",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Insik In",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Taegon Oh",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Seon Joon Kim",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Chong Min Koo",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Albert S. Lee",
+          "first": null
+        }
+      ],
+      "doi": "10.1016/j.apcatb.2024.123731",
+      "id": "W-Q9DR4H",
+      "issue": null,
+      "journal": "Applied Catalysis B: Environment and Energy",
+      "pages": "123731",
+      "published_issue": "2024-06",
+      "published_online": "2024-01-13",
+      "representative": null,
+      "schema": 1,
+      "title": "Unveiling the role of catalytically active MXene supports in enhancing the performance and durability of cobalt oxygen evolution reaction catalysts for anion exchange membrane water electrolyzers",
+      "type": "journal-article",
+      "volume": "346"
+    },
+    {
+      "article_number": "121707",
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Banseok Oh",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Kyunam Kim",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "YongSung Kwon",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "You-In Park",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Hosik Park",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        }
+      ],
+      "doi": "10.1016/j.memsci.2023.121707",
+      "id": "W-QDC1Y2",
+      "issue": null,
+      "journal": "Journal of Membrane Science",
+      "pages": "121707",
+      "published_issue": "2023-08",
+      "published_online": "2023-05-01",
+      "representative": null,
+      "schema": 1,
+      "title": "Pervaporation dehydration of ethylene glycol/water mixture via hydrophilic polymer of intrinsic microporosity (PIM) derivatives",
+      "type": "journal-article",
+      "volume": "680"
+    },
+    {
+      "article_number": "e04542",
+      "authors": [
+        {
+          "cofirst": true,
+          "corresponding": false,
+          "display": "Young Hun Lee",
+          "first": true
+        },
+        {
+          "cofirst": true,
+          "corresponding": false,
+          "display": "Jung Hun Lee",
+          "first": true
+        },
+        {
+          "cofirst": true,
+          "corresponding": false,
+          "display": "Hwajoo Joo",
+          "first": true
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Michael Massen‐Hane",
+          "first": false
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Injun Park",
+          "first": false
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Soohyeon Rho",
+          "first": false
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Aqil Jamal",
+          "first": false
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "T. Alan Hatton",
+          "first": false
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Dong‐Yeun Koh",
+          "first": false
+        }
+      ],
+      "doi": "10.1002/adma.202504542",
+      "id": "W-QNFXQ6",
+      "issue": "45",
+      "journal": "Advanced Materials",
+      "pages": "e04542",
+      "published_issue": "2025-11",
+      "published_online": "2025-08",
+      "representative": true,
+      "schema": 1,
+      "title": "Design of Electrified Fiber Sorbents for Direct Air Capture with Electrically‐Driven Temperature Vacuum Swing Adsorption",
+      "type": "journal-article",
+      "volume": "37"
+    },
+    {
+      "article_number": "6462",
+      "authors": [
+        {
+          "cofirst": true,
+          "corresponding": false,
+          "display": "Baekmin Q. Kim",
+          "first": true
+        },
+        {
+          "cofirst": true,
+          "corresponding": false,
+          "display": "Jaehong Lee",
+          "first": true
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Hanul Kim",
+          "first": false
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Subeen Kim",
+          "first": false
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Kyoungmun Lee",
+          "first": false
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Siyoung Q. Choi",
+          "first": false
+        }
+      ],
+      "doi": "10.1038/s41467-025-61777-z",
+      "id": "W-R668QT",
+      "issue": "1",
+      "journal": "Nature Communications",
+      "pages": "6462",
+      "published_issue": "2025-07-12",
+      "published_online": "2025-07-12",
+      "representative": null,
+      "schema": 1,
+      "title": "Dual path biphasic column for highly selective and ultrafast organic solvent membrane extraction",
+      "type": "journal-article",
+      "volume": "16"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Woongchul Shin",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Seongmin Park",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Jong-Won Lee",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Yongwon Seo",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Jiwoong Seol",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Huen Lee",
+          "first": null
+        }
+      ],
+      "doi": "10.1021/jp303719r",
+      "id": "W-RGD8YH",
+      "issue": "31",
+      "journal": "The Journal of Physical Chemistry C",
+      "pages": "16352-16357",
+      "published_issue": "2012-08-09",
+      "published_online": "2012-07-26",
+      "representative": null,
+      "schema": 1,
+      "title": "Structure Transition from Semi- to True Clathrate Hydrates Induced by CH<sub>4</sub> Enclathration",
+      "type": "journal-article",
+      "volume": "116"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Hyery Kang",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Seonghoon Jung",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Yun-Ho Ahn",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Seongmin Park",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Jaehun Park",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Huen Lee",
+          "first": null
+        }
+      ],
+      "doi": "10.1016/j.cplett.2013.09.041",
+      "id": "W-RP8WFE",
+      "issue": null,
+      "journal": "Chemical Physics Letters",
+      "pages": "14-19",
+      "published_issue": "2013-11",
+      "published_online": "2013-09-23",
+      "representative": null,
+      "schema": 1,
+      "title": "Physicochemical properties of semi-clathrate hydrates as revealed by terahertz time-domain spectroscopy",
+      "type": "journal-article",
+      "volume": "587"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Woongchul Shin",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Seongmin Park",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Hyeyoon Ro",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Dong‐Yeun Koh",
+          "first": false
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Jiwoong Seol",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Huen Lee",
+          "first": null
+        }
+      ],
+      "doi": "10.1002/asia.201200040",
+      "id": "W-RSZXMP",
+      "issue": "10",
+      "journal": "Chemistry – An Asian Journal",
+      "pages": "2235-2238",
+      "published_issue": "2012-10",
+      "published_online": "2012-07-13",
+      "representative": null,
+      "schema": 1,
+      "title": "Spectroscopic Confirmation of Metastable Structure Formation Occurring in Natural Gas Hydrates",
+      "type": "journal-article",
+      "volume": "7"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": true,
+          "corresponding": false,
+          "display": "Jimin Park",
+          "first": true
+        },
+        {
+          "cofirst": true,
+          "corresponding": false,
+          "display": "Mujin Cheon",
+          "first": true
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Sanghyeon Park",
+          "first": false
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Jay H. Lee",
+          "first": false
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        }
+      ],
+      "doi": "10.1021/acssuschemeng.4c01285",
+      "id": "W-SBQYER",
+      "issue": "31",
+      "journal": "ACS Sustainable Chemistry & Engineering",
+      "pages": "11510-11519",
+      "published_issue": "2024-08-05",
+      "published_online": "2024-07-21",
+      "representative": null,
+      "schema": 1,
+      "title": "Sustainable Isopropyl Alcohol Recovery via Data-Driven, Active-Learning Optimization of Vacuum Membrane Distillation",
+      "type": "journal-article",
+      "volume": "12"
+    },
+    {
+      "article_number": "2004999",
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Hyeokjun Seo",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Sunghyun Yoon",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Banseok Oh",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Yongchul G. Chung",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Dong‐Yeun Koh",
+          "first": false
+        }
+      ],
+      "doi": "10.1002/advs.202004999",
+      "id": "W-SDJFQK",
+      "issue": "17",
+      "journal": "Advanced Science",
+      "pages": "e2004999",
+      "published_issue": "2021-09",
+      "published_online": "2021-07-11",
+      "representative": null,
+      "schema": 1,
+      "title": "Shape‐Selective Ultramicroporous Carbon Membranes for Sub‐0.1 nm Organic Liquid Separation",
+      "type": "journal-article",
+      "volume": "8"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Chong Yang Chuah",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Kyunam Kim",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Junghyun Lee",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Tae-Hyun Bae",
+          "first": null
+        }
+      ],
+      "doi": "10.1021/acs.iecr.9b05439",
+      "id": "W-SJ4G57",
+      "issue": "15",
+      "journal": "Industrial & Engineering Chemistry Research",
+      "pages": "6773-6794",
+      "published_issue": "2020-04-15",
+      "published_online": "2020-01-13",
+      "representative": null,
+      "schema": 1,
+      "title": "CO<sub>2</sub> Absorption Using Membrane Contactors: Recent Progress and Future Perspective",
+      "type": "review",
+      "volume": "59"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Jiwoong Seol",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Jong-Won Lee",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Woong-Chul Shin",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Jaehyoung Lee",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Huen Lee",
+          "first": null
+        }
+      ],
+      "doi": "10.1021/jp105397k",
+      "id": "W-T50D8A",
+      "issue": "41",
+      "journal": "The Journal of Physical Chemistry C",
+      "pages": "17960-17963",
+      "published_issue": "2010-10-21",
+      "published_online": "2010-09-29",
+      "representative": null,
+      "schema": 1,
+      "title": "Generalized Cage Occupancy Behavior in the Binary Clathrate Hydrates",
+      "type": "journal-article",
+      "volume": "114"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Yeon Hye Kwon",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Byunghyun Min",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Shaowei Yang",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Ramesh R. Bhave",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Sankar Nair",
+          "first": null
+        }
+      ],
+      "doi": "10.1021/acsami.7b18244",
+      "id": "W-TQ8059",
+      "issue": "7",
+      "journal": "ACS Applied Materials & Interfaces",
+      "pages": "6361-6368",
+      "published_issue": "2018-02-21",
+      "published_online": "2018-02-12",
+      "representative": null,
+      "schema": 1,
+      "title": "Ion-Exchanged SAPO-34 Membranes for Krypton–Xenon Separation: Control of Permeation Properties and Fabrication of Hollow Fiber Membranes",
+      "type": "journal-article",
+      "volume": "10"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Bong Lim Suh",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Taehoon Hyun",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Jihan Kim",
+          "first": null
+        }
+      ],
+      "doi": "10.1021/acs.chemmater.1c01657",
+      "id": "W-WBAEF3",
+      "issue": "19",
+      "journal": "Chemistry of Materials",
+      "pages": "7686-7692",
+      "published_issue": "2021-10-12",
+      "published_online": "2021-09-24",
+      "representative": null,
+      "schema": 1,
+      "title": "Rational Tuning of Ultramicropore Dimensions in MOF-74 for Size-Selective Separation of Light Hydrocarbons",
+      "type": "journal-article",
+      "volume": "33"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Jiwoong Seol",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Dong‐Yeun Koh",
+          "first": false
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Minjun Cha",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Woongchul Shin",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Young‐Joo Lee",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Ji‐Hoon Kim",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Jaehyoung Lee",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Huen Lee",
+          "first": null
+        }
+      ],
+      "doi": "10.1002/aic.12555",
+      "id": "W-WKKMTY",
+      "issue": "1",
+      "journal": "AIChE Journal",
+      "pages": "322-328",
+      "published_issue": "2012-01",
+      "published_online": "2011-03-22",
+      "representative": null,
+      "schema": 1,
+      "title": "Experimental Verification of Anomalous Chloride Enrichment Related to Methane Hydrate Formation in Deep-Sea Sediments",
+      "type": "journal-article",
+      "volume": "58"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Dong-Yeun Koh",
+          "first": true
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Brian R. Pimentel",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Vinod P. Babu",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Neil Stephenson",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Siew W. Chai",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Andrew Rosinski",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Ryan P. Lively",
+          "first": null
+        }
+      ],
+      "doi": "10.1016/j.micromeso.2017.06.028",
+      "id": "W-WMGJWE",
+      "issue": null,
+      "journal": "Microporous and Mesoporous Materials",
+      "pages": "140-146",
+      "published_issue": "2018-01",
+      "published_online": "2017-06-13",
+      "representative": null,
+      "schema": 1,
+      "title": "Sub-ambient air separation via Li<sup>+</sup> exchanged zeolite",
+      "type": "journal-article",
+      "volume": "256"
+    },
+    {
+      "article_number": "124615",
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Jihoon Choi",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Woong-Chul Shin",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Hyeokjun Seo",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Huiryung Heo",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Min-Jun Jang",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        }
+      ],
+      "doi": "10.1016/j.memsci.2025.124615",
+      "id": "W-WP2A3Z",
+      "issue": null,
+      "journal": "Journal of Membrane Science",
+      "pages": "124615",
+      "published_issue": "2025-12",
+      "published_online": "2025-09-13",
+      "representative": null,
+      "schema": 1,
+      "title": "Tailoring MnO2 nanodomains in organic-inorganic hybrid interfaces toward tunable hydrocarbon separation",
+      "type": "journal-article",
+      "volume": "736"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Seongmin Park",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Hyery Kang",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Jae W. Lee",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Huen Lee",
+          "first": null
+        }
+      ],
+      "doi": "10.1021/jp5061254",
+      "id": "W-WZ1WJK",
+      "issue": "35",
+      "journal": "The Journal of Physical Chemistry C",
+      "pages": "20203-20208",
+      "published_issue": "2014-09-04",
+      "published_online": "2014-08-22",
+      "representative": null,
+      "schema": 1,
+      "title": "Effect of Molecular Nitrogen on Multiple Hydrogen Occupancy in Clathrate Hydrates",
+      "type": "journal-article",
+      "volume": "118"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": true,
+          "corresponding": false,
+          "display": "Jihoon Choi",
+          "first": true
+        },
+        {
+          "cofirst": true,
+          "corresponding": false,
+          "display": "Hyeokjun Seo",
+          "first": true
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Minyong Lee",
+          "first": false
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Woong-Chul Shin",
+          "first": false
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Jaemin Choi",
+          "first": false
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Keonwoo Choi",
+          "first": false
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Min-Jun Jang",
+          "first": false
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Sung Gap Im",
+          "first": false
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Jae W. Lee",
+          "first": false
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Ryan P. Lively",
+          "first": false
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        }
+      ],
+      "doi": "10.1038/s41586-026-10677-3",
+      "id": "W-XMJRTE",
+      "issue": "8120",
+      "journal": "Nature",
+      "pages": "955-962",
+      "published_issue": "2026-06-25",
+      "published_online": "2026-06-24",
+      "representative": true,
+      "schema": 1,
+      "title": "Crude oil fractionation by means of mesoporous polyacrylonitrile membranes",
+      "type": "journal-article",
+      "volume": "654"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Yun-Ho Ahn",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Hyery Kang",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Youngjune Park",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Huen Lee",
+          "first": null
+        }
+      ],
+      "doi": "10.1016/j.fluid.2015.12.005",
+      "id": "W-XSBSRD",
+      "issue": null,
+      "journal": "Fluid Phase Equilibria",
+      "pages": "65-70",
+      "published_issue": "2016-04",
+      "published_online": "2015-12-10",
+      "representative": null,
+      "schema": 1,
+      "title": "Gas hydrate inhibition by 3-hydroxytetrahydrofuran: Spectroscopic identifications and hydrate phase equilibria",
+      "type": "journal-article",
+      "volume": "413"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Suk Lee",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Yun-Ho Ahn",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        }
+      ],
+      "doi": "10.1007/s11814-022-1061-z",
+      "id": "W-XX81KX",
+      "issue": "8",
+      "journal": "Korean Journal of Chemical Engineering",
+      "pages": "1975-1980",
+      "published_issue": "2022-08",
+      "published_online": "2022-04-06",
+      "representative": null,
+      "schema": 1,
+      "title": "Sustainable building materials employing solid diamines as CO2 sorbents",
+      "type": "journal-article",
+      "volume": "39"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Shaowei Yang",
+          "first": true
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Yeon Hye Kwon",
+          "first": false
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Dong‐Yeun Koh",
+          "first": false
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Byunghyun Min",
+          "first": false
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Yujun Liu",
+          "first": false
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Sankar Nair",
+          "first": false
+        }
+      ],
+      "doi": "10.1002/cnma.201800272",
+      "id": "W-XXMYM6",
+      "issue": "1",
+      "journal": "ChemNanoMat",
+      "pages": "61-67",
+      "published_issue": "2019-01",
+      "published_online": "2018-08",
+      "representative": null,
+      "schema": 1,
+      "title": "Highly Selective SSZ‐13 Zeolite Hollow Fiber Membranes by Ultraviolet Activation at Near‐Ambient Temperature",
+      "type": "journal-article",
+      "volume": "5"
+    },
+    {
+      "article_number": "6616",
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": null,
+          "display": "Hyery Kang",
+          "first": null
+        },
+        {
+          "cofirst": true,
+          "corresponding": false,
+          "display": "Dong-Yeun Koh",
+          "first": true
+        },
+        {
+          "cofirst": null,
+          "corresponding": null,
+          "display": "Huen Lee",
+          "first": null
+        }
+      ],
+      "doi": "10.1038/srep06616",
+      "id": "W-Y4MHVA",
+      "issue": "1",
+      "journal": "Scientific Reports",
+      "pages": "6616",
+      "published_issue": "2014",
+      "published_online": "2014-10-14",
+      "representative": null,
+      "schema": 1,
+      "title": "Nondestructive natural gas hydrate recovery driven by air and carbon dioxide",
+      "type": "journal-article",
+      "volume": "4"
+    },
+    {
+      "article_number": "123089",
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Hyeokjun Seo",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        }
+      ],
+      "doi": "10.1016/j.memsci.2024.123089",
+      "id": "W-Y8KY75",
+      "issue": null,
+      "journal": "Journal of Membrane Science",
+      "pages": "123089",
+      "published_issue": "2024-09",
+      "published_online": "2024-07-14",
+      "representative": null,
+      "schema": 1,
+      "title": "Controlled organic solvent transport in ultramicroporous carbon membranes",
+      "type": "journal-article",
+      "volume": "709"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Dong-Yeun Koh",
+          "first": true
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Benjamin A. McCool",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Harry W. Deckman",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Ryan P. Lively",
+          "first": null
+        }
+      ],
+      "doi": "10.1126/science.aaf1343",
+      "id": "W-YA4WT9",
+      "issue": "6301",
+      "journal": "Science",
+      "pages": "804-807",
+      "published_issue": "2016-08-19",
+      "published_online": null,
+      "representative": true,
+      "schema": 1,
+      "title": "Reverse osmosis molecular differentiation of organic liquids using carbon molecular sieve membranes",
+      "type": "journal-article",
+      "volume": "353"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Hyery Kang",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Yun-Ho Ahn",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Seonghoon Jung",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Jaehun Park",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Jaehyoung Lee",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Huen Lee",
+          "first": null
+        }
+      ],
+      "doi": "10.1021/je5005092",
+      "id": "W-YE9Y8F",
+      "issue": "2",
+      "journal": "Journal of Chemical & Engineering Data",
+      "pages": "238-246",
+      "published_issue": "2015-02-12",
+      "published_online": "2014-10-29",
+      "representative": null,
+      "schema": 1,
+      "title": "Optical Properties of Tetrahydrofuran Clathrate Hydrates with Polyvinylpyrrolidone (THF + H<sub>2</sub>O + PVP) Revealed by Terahertz (THz) Time-Domain Spectroscopy",
+      "type": "journal-article",
+      "volume": "60"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Sun-Hwa Yeon",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Jiwoong Seol",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Young-ju Seo",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Keun-Pil Park",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Dae-Gee Huh",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Jaehyoung Lee",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Huen Lee",
+          "first": null
+        }
+      ],
+      "doi": "10.1039/c0ee00355g",
+      "id": "W-YMA0QD",
+      "issue": "2",
+      "journal": "Energy Environ. Sci.",
+      "pages": "421-424",
+      "published_issue": "2011-02-01",
+      "published_online": "2010-11-29",
+      "representative": null,
+      "schema": 1,
+      "title": "Abnormal methane occupancy of natural gas hydrates in deep sea floor sediments",
+      "type": "journal-article",
+      "volume": "4"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Young-ju Seo",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Daeok Kim",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Joo Yong Lee",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Taewoong Ahn",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Se-Joon Kim",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Jaehyoung Lee",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Huen Lee",
+          "first": null
+        }
+      ],
+      "doi": "10.1021/acs.energyfuels.5b02128",
+      "id": "W-YSRBFY",
+      "issue": "12",
+      "journal": "Energy & Fuels",
+      "pages": "8143-8150",
+      "published_issue": "2015-12-17",
+      "published_online": "2015-11-25",
+      "representative": null,
+      "schema": 1,
+      "title": "Soaking Process for the Enhanced Methane Recovery of Gas Hydrates via CO<sub>2</sub>/N<sub>2</sub> Gas Injection",
+      "type": "journal-article",
+      "volume": "29"
+    },
+    {
+      "article_number": "2213382",
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Ari Chae",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "G. Murali",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Seul‐Yi Lee",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Jeonghwan Gwak",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Seon Joon Kim",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Yong Jin Jeong",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Hansol Kang",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Seongmin Park",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Albert S. Lee",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Dong‐Yeun Koh",
+          "first": false
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Insik In",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Soo‐Jin Park",
+          "first": null
+        }
+      ],
+      "doi": "10.1002/adfm.202213382",
+      "id": "W-ZED59V",
+      "issue": "24",
+      "journal": "Advanced Functional Materials",
+      "pages": null,
+      "published_issue": "2023-06-12",
+      "published_online": "2023-03-02",
+      "representative": null,
+      "schema": 1,
+      "title": "Highly Oxidation‐Resistant and Self‐Healable MXene‐Based Hydrogels for Wearable Strain Sensor",
+      "type": "journal-article",
+      "volume": "33"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Dong-Yeun Koh",
+          "first": true
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Hyery Kang",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Jiwon Jeon",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Yun-Ho Ahn",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Youngjune Park",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Hyungjun Kim",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Huen Lee",
+          "first": null
+        }
+      ],
+      "doi": "10.1021/jp410632q",
+      "id": "W-ZGEJGM",
+      "issue": "6",
+      "journal": "The Journal of Physical Chemistry C",
+      "pages": "3324-3330",
+      "published_issue": "2014-02-13",
+      "published_online": "2014-01-06",
+      "representative": null,
+      "schema": 1,
+      "title": "Tuning Cage Dimension in Clathrate Hydrates for Hydrogen Multiple Occupancy",
+      "type": "journal-article",
+      "volume": "118"
+    },
+    {
+      "article_number": "181601",
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Yugyeong Sung",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Ingyu Park",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Miseong Kim",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Yunseok Lee",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Yeonwook Kim",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Seungin Lee",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Ah-Hyung Alissa Park",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": true,
+          "display": "Youngjune Park",
+          "first": null
+        }
+      ],
+      "doi": "10.1016/j.cej.2026.181601",
+      "id": "W-ZJEA37",
+      "issue": null,
+      "journal": "Chemical Engineering Journal",
+      "pages": "181601",
+      "published_issue": "2026-11",
+      "published_online": "2026-09-04",
+      "representative": null,
+      "schema": 1,
+      "title": "Impregnation of liquid-like nanoparticle organic hybrid materials in mesoporous fiber sorbent with hierarchical structures for scalable direct air capture",
+      "type": "journal-article",
+      "volume": "548"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Banseok Oh",
+          "first": true
+        },
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Injun Park",
+          "first": false
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        }
+      ],
+      "doi": "10.1021/acs.energyfuels.6c03763",
+      "id": "W-ZZSYHE",
+      "issue": "42",
+      "journal": "Energy & Fuels",
+      "pages": "23417-23426",
+      "published_issue": "2026-10-22",
+      "published_online": "2026-10-12",
+      "representative": null,
+      "schema": 1,
+      "title": "Joule-Heated\nWoven Fiber Contactors for Direct Air\nCapture",
+      "type": "journal-article",
+      "volume": "40"
+    }
+  ],
+  "release_id": "R-20261031-1044",
+  "schema": 2
+}
