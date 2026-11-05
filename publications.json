@@ -1,5 +1,5 @@
 {
-  "content_sha256": "43219bb54ac2bb24eae25ed74030b6444b729593a69006f3d16b4e3f0da921d1",
+  "content_sha256": "10c417e0638e762c5a7d635788f008425e4ebeee9cd2254abebdac0513554c7b",
   "owner_indices": {
     "W-0C3WSY": [],
     "W-0CMQXZ": [],
@@ -52,7 +52,6 @@
       4
     ],
     "W-5SMDF7": [],
-    "W-71YYGX": [],
     "W-73A020": [
       5
     ],
@@ -81,7 +80,6 @@
       2
     ],
     "W-C9MN50": [],
-    "W-CGG0HJ": [],
     "W-CVHXQG": [
       4
     ],
@@ -1759,35 +1757,6 @@
         {
           "cofirst": null,
           "corresponding": false,
-          "display": "Hyeokjun Seo",
-          "first": null
-        },
-        {
-          "cofirst": false,
-          "corresponding": true,
-          "display": "Dong-Yeun Koh",
-          "first": false
-        }
-      ],
-      "doi": "10.1126/science.abq3186",
-      "id": "W-71YYGX",
-      "issue": "6597",
-      "journal": "Science",
-      "pages": "1053-1054",
-      "published_issue": "2022-06-03",
-      "published_online": null,
-      "representative": null,
-      "schema": 1,
-      "title": "Refining petroleum with membranes",
-      "type": "journal-article",
-      "volume": "376"
-    },
-    {
-      "article_number": null,
-      "authors": [
-        {
-          "cofirst": null,
-          "corresponding": false,
           "display": "Sunggyu Lee",
           "first": null
         },
@@ -2211,7 +2180,7 @@
       "pages": "eaee7783",
       "published_issue": "2026-08-28",
       "published_online": null,
-      "representative": null,
+      "representative": true,
       "schema": 1,
       "title": "Plasma engineered carbon molecular sieve membranes for precise and stable hydrogen permeation",
       "type": "journal-article",
@@ -2463,35 +2432,6 @@
       "title": "Water-Soluble Structure H Clathrate Hydrate Formers",
       "type": "journal-article",
       "volume": "115"
-    },
-    {
-      "article_number": null,
-      "authors": [
-        {
-          "cofirst": false,
-          "corresponding": false,
-          "display": "Dong-Yeun Koh",
-          "first": true
-        },
-        {
-          "cofirst": false,
-          "corresponding": true,
-          "display": "Ryan P. Lively",
-          "first": false
-        }
-      ],
-      "doi": "10.1038/nnano.2015.77",
-      "id": "W-CGG0HJ",
-      "issue": "5",
-      "journal": "Nature Nanotechnology",
-      "pages": "385-386",
-      "published_issue": "2015-05",
-      "published_online": "2015-05-07",
-      "representative": null,
-      "schema": 1,
-      "title": "Membranes at the limit",
-      "type": "journal-article",
-      "volume": "10"
     },
     {
       "article_number": null,
@@ -5978,6 +5918,6 @@
       "volume": "40"
     }
   ],
-  "release_id": "R-20261031-1253",
+  "release_id": "R-20261105-0723",
   "schema": 2
 }
