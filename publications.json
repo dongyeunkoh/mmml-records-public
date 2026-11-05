@@ -1,57 +1,93 @@
 {
-  "content_sha256": "10c417e0638e762c5a7d635788f008425e4ebeee9cd2254abebdac0513554c7b",
+  "content_sha256": "908380aef39a08a74bd6f8cc4640bb38e722e6ba2db0deae54bfa189a302c1ee",
   "owner_indices": {
-    "W-0C3WSY": [],
-    "W-0CMQXZ": [],
-    "W-0F9XNK": [],
+    "W-0C3WSY": [
+      0
+    ],
+    "W-0CMQXZ": [
+      11
+    ],
+    "W-0F9XNK": [
+      5
+    ],
     "W-0GT3EA": [
       7
     ],
     "W-0V8V8G": [
       5
     ],
-    "W-0V9MTG": [],
+    "W-0V9MTG": [
+      3
+    ],
     "W-1C2FY7": [
       5
     ],
-    "W-1G6M0C": [],
-    "W-1HAY84": [],
-    "W-1PGC0G": [],
+    "W-1G6M0C": [
+      0
+    ],
+    "W-1HAY84": [
+      2
+    ],
+    "W-1PGC0G": [
+      2
+    ],
     "W-1YTCXA": [
       2
     ],
     "W-27DM6F": [
       5
     ],
-    "W-2W74Z5": [],
-    "W-3HHT53": [],
-    "W-3MXD00": [],
-    "W-415V3A": [],
-    "W-46AC9N": [],
+    "W-2W74Z5": [
+      0
+    ],
+    "W-3HHT53": [
+      3
+    ],
+    "W-3MXD00": [
+      6
+    ],
+    "W-415V3A": [
+      8
+    ],
+    "W-46AC9N": [
+      2
+    ],
     "W-477M3N": [
       5
     ],
     "W-4AN2PX": [
       5
     ],
-    "W-4C2AGG": [],
-    "W-4JZVH3": [],
-    "W-4MCK0S": [],
-    "W-4X605W": [],
+    "W-4C2AGG": [
+      2
+    ],
+    "W-4JZVH3": [
+      0
+    ],
+    "W-4MCK0S": [
+      2
+    ],
+    "W-4X605W": [
+      1
+    ],
     "W-4YX8SA": [
       7
     ],
     "W-51REZW": [
       6
     ],
-    "W-5B1BMF": [],
+    "W-5B1BMF": [
+      0
+    ],
     "W-5M19TP": [
       5
     ],
     "W-5QRJR9": [
       4
     ],
-    "W-5SMDF7": [],
+    "W-5SMDF7": [
+      1
+    ],
     "W-73A020": [
       5
     ],
@@ -64,26 +100,42 @@
     "W-8141QX": [
       6
     ],
-    "W-91EJWJ": [],
+    "W-91EJWJ": [
+      1
+    ],
     "W-936HXW": [
       7
     ],
-    "W-9E4MDW": [],
-    "W-ABK1FG": [],
+    "W-9E4MDW": [
+      4
+    ],
+    "W-ABK1FG": [
+      2
+    ],
     "W-ACKXAC": [
       3
     ],
-    "W-AQH987": [],
-    "W-BB3XJP": [],
-    "W-BKB7NT": [],
+    "W-AQH987": [
+      3
+    ],
+    "W-BB3XJP": [
+      0
+    ],
+    "W-BKB7NT": [
+      3
+    ],
     "W-C08ZAY": [
       2
     ],
-    "W-C9MN50": [],
+    "W-C9MN50": [
+      2
+    ],
     "W-CVHXQG": [
       4
     ],
-    "W-DAE3H7": [],
+    "W-DAE3H7": [
+      2
+    ],
     "W-DE0BMH": [
       5
     ],
@@ -93,32 +145,60 @@
     "W-E488ZG": [
       5
     ],
-    "W-EMA4FE": [],
+    "W-EMA4FE": [
+      2
+    ],
     "W-F4BY1X": [
       4
     ],
     "W-FVKZD4": [
       5
     ],
-    "W-G63M9V": [],
-    "W-GB74EH": [],
-    "W-GTR37D": [],
-    "W-H6TPMW": [],
-    "W-HBCK8V": [],
-    "W-HBCZCM": [],
-    "W-HDMDGM": [],
+    "W-G63M9V": [
+      4
+    ],
+    "W-GB74EH": [
+      1
+    ],
+    "W-GTR37D": [
+      2
+    ],
+    "W-H6TPMW": [
+      2
+    ],
+    "W-HBCK8V": [
+      4
+    ],
+    "W-HBCZCM": [
+      3
+    ],
+    "W-HDMDGM": [
+      0
+    ],
     "W-HSSXEV": [
       5
     ],
-    "W-J31PBC": [],
-    "W-JG6BW2": [],
+    "W-J31PBC": [
+      1
+    ],
+    "W-JG6BW2": [
+      8
+    ],
     "W-JP2BKH": [
       7
     ],
-    "W-JPWSMR": [],
-    "W-JYPY96": [],
-    "W-K9DW3K": [],
-    "W-KP5WHE": [],
+    "W-JPWSMR": [
+      0
+    ],
+    "W-JYPY96": [
+      3
+    ],
+    "W-K9DW3K": [
+      1
+    ],
+    "W-KP5WHE": [
+      3
+    ],
     "W-KZM9FM": [
       6
     ],
@@ -128,14 +208,18 @@
     "W-NDGW05": [
       6
     ],
-    "W-NM61N9": [],
+    "W-NM61N9": [
+      2
+    ],
     "W-NQE464": [
       3
     ],
     "W-NTZ8VH": [
       6
     ],
-    "W-NV662R": [],
+    "W-NV662R": [
+      5
+    ],
     "W-NYV2R9": [
       1
     ],
@@ -151,43 +235,81 @@
     "W-R668QT": [
       5
     ],
-    "W-RGD8YH": [],
-    "W-RP8WFE": [],
-    "W-RSZXMP": [],
+    "W-RGD8YH": [
+      4
+    ],
+    "W-RP8WFE": [
+      2
+    ],
+    "W-RSZXMP": [
+      3
+    ],
     "W-SBQYER": [
       4
     ],
     "W-SDJFQK": [
       4
     ],
-    "W-SJ4G57": [],
-    "W-T50D8A": [],
-    "W-TQ8059": [],
+    "W-SJ4G57": [
+      3
+    ],
+    "W-T50D8A": [
+      3
+    ],
+    "W-TQ8059": [
+      3
+    ],
     "W-WBAEF3": [
       2
     ],
-    "W-WKKMTY": [],
-    "W-WMGJWE": [],
+    "W-WKKMTY": [
+      1
+    ],
+    "W-WMGJWE": [
+      0
+    ],
     "W-WP2A3Z": [
       5
     ],
-    "W-WZ1WJK": [],
+    "W-WZ1WJK": [
+      1
+    ],
     "W-XMJRTE": [
       10
     ],
-    "W-XSBSRD": [],
-    "W-XX81KX": [],
-    "W-XXMYM6": [],
-    "W-Y4MHVA": [],
+    "W-XSBSRD": [
+      2
+    ],
+    "W-XX81KX": [
+      2
+    ],
+    "W-XXMYM6": [
+      2
+    ],
+    "W-Y4MHVA": [
+      1
+    ],
     "W-Y8KY75": [
       1
     ],
-    "W-YA4WT9": [],
-    "W-YE9Y8F": [],
-    "W-YMA0QD": [],
-    "W-YSRBFY": [],
-    "W-ZED59V": [],
-    "W-ZGEJGM": [],
+    "W-YA4WT9": [
+      0
+    ],
+    "W-YE9Y8F": [
+      1
+    ],
+    "W-YMA0QD": [
+      2
+    ],
+    "W-YSRBFY": [
+      2
+    ],
+    "W-ZED59V": [
+      9
+    ],
+    "W-ZGEJGM": [
+      0
+    ],
     "W-ZJEA37": [
       6
     ],
@@ -1492,13 +1614,13 @@
         },
         {
           "cofirst": null,
-          "corresponding": null,
+          "corresponding": true,
           "display": "Seoin Back",
           "first": null
         },
         {
           "cofirst": null,
-          "corresponding": null,
+          "corresponding": true,
           "display": "Jinwoo Lee",
           "first": null
         }
@@ -2468,13 +2590,13 @@
         },
         {
           "cofirst": null,
-          "corresponding": null,
+          "corresponding": true,
           "display": "Chan Woo Park",
           "first": null
         },
         {
           "cofirst": null,
-          "corresponding": null,
+          "corresponding": true,
           "display": "Hyung-Ju Kim",
           "first": null
         }
@@ -5386,7 +5508,7 @@
         },
         {
           "cofirst": null,
-          "corresponding": null,
+          "corresponding": true,
           "display": "Huen Lee",
           "first": null
         }
@@ -5918,6 +6040,6 @@
       "volume": "40"
     }
   ],
-  "release_id": "R-20261105-0723",
+  "release_id": "R-20261105-0842",
   "schema": 2
 }
