@@ -1,0 +1,422 @@
+{
+  "content_sha256": "3522b4f159277ec0d80c0f504c4cc57960e6a02aa6d90e333bea663be4c7949a",
+  "official_links": {
+    "W-2YD2C3": "https://doi.org/10.48550/arxiv.2508.02332",
+    "W-36QCZ9": "https://doi.org/10.48550/arxiv.2411.00171",
+    "W-64XXCW": "https://doi.org/10.26434/chemrxiv.15000091/v1",
+    "W-71YYGX": "https://doi.org/10.1126/science.abq3186",
+    "W-CGG0HJ": "https://doi.org/10.1038/nnano.2015.77",
+    "W-J0GJZC": "https://drive.google.com/file/d/1zV4Yg4fdtf6uvN-_xb5qt6R10MY6sgU1/view?usp=sharing",
+    "W-JBKJ4T": "https://proceedings.mlr.press/v267/cheon25a.html",
+    "W-KJYZQT": "https://naver.me/I5486XLv",
+    "W-WFT775": "https://doi.org/10.1038/d41586-026-01896-9",
+    "W-XEFMAV": "https://doi.org/10.48550/arxiv.2607.04356"
+  },
+  "owner_indices": {
+    "W-2YD2C3": [
+      3
+    ],
+    "W-36QCZ9": [
+      2
+    ],
+    "W-64XXCW": [
+      9
+    ],
+    "W-71YYGX": [
+      1
+    ],
+    "W-CGG0HJ": [
+      0
+    ],
+    "W-J0GJZC": [
+      0
+    ],
+    "W-JBKJ4T": [
+      2
+    ],
+    "W-KJYZQT": [
+      0
+    ],
+    "W-WFT775": [],
+    "W-XEFMAV": [
+      2
+    ]
+  },
+  "papers": [
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": null,
+          "display": "Joon-Hyun Park",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": null,
+          "display": "Mujin Cheon",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": null,
+          "display": "Jeongsu Wi",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": null,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        }
+      ],
+      "doi": "10.48550/arxiv.2508.02332",
+      "id": "W-2YD2C3",
+      "issue": null,
+      "journal": "arXiv",
+      "pages": null,
+      "published_issue": "2025",
+      "published_online": null,
+      "representative": null,
+      "schema": 1,
+      "title": "BOOST: A Data-Driven Framework for the Automated Joint Selection of Kernel and Acquisition Functions in Bayesian Optimization",
+      "type": "preprint",
+      "volume": null
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": null,
+          "display": "Cheon, Mujin",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": null,
+          "display": "Lee, Jay H.",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": null,
+          "display": "Koh, Dong-Yeun",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": null,
+          "display": "Tsay, Calvin",
+          "first": null
+        }
+      ],
+      "doi": "10.48550/arxiv.2411.00171",
+      "id": "W-36QCZ9",
+      "issue": null,
+      "journal": "arXiv (Cornell University)",
+      "pages": null,
+      "published_issue": "2024-10-31",
+      "published_online": null,
+      "representative": null,
+      "schema": 1,
+      "title": "EARL-BO: Reinforcement Learning for Multi-Step Lookahead, High-Dimensional Bayesian Optimization",
+      "type": "preprint",
+      "volume": null
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": null,
+          "display": "Injun Park",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": null,
+          "display": "Sieun Kim",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": null,
+          "display": "Junseong Kim",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": null,
+          "display": "Karoline L Hebisch",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": null,
+          "display": "Inhwan Park",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": null,
+          "display": "Juhyeong You",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": null,
+          "display": "Huiryung Heo",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": null,
+          "display": "Aqil Jamal",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": null,
+          "display": "Jinsu Kim",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": null,
+          "display": "Dong-Yeun Koh",
+          "first": null
+        }
+      ],
+      "doi": "10.26434/chemrxiv.15000091/v1",
+      "id": "W-64XXCW",
+      "issue": null,
+      "journal": "ChemRxiv",
+      "pages": null,
+      "published_issue": "2026-02-16",
+      "published_online": null,
+      "representative": null,
+      "schema": 1,
+      "title": "Solvent-Free Manufacturing of Electrified Structured Sorbents for Scalable Direct Air Capture",
+      "type": "preprint",
+      "volume": null
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": false,
+          "display": "Hyeokjun Seo",
+          "first": null
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Dong-Yeun Koh",
+          "first": false
+        }
+      ],
+      "doi": "10.1126/science.abq3186",
+      "id": "W-71YYGX",
+      "issue": "6597",
+      "journal": "Science",
+      "pages": "1053-1054",
+      "published_issue": "2022-06-03",
+      "published_online": null,
+      "representative": null,
+      "schema": 1,
+      "title": "Refining petroleum with membranes",
+      "type": "journal-article",
+      "volume": "376"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": false,
+          "corresponding": false,
+          "display": "Dong-Yeun Koh",
+          "first": true
+        },
+        {
+          "cofirst": false,
+          "corresponding": true,
+          "display": "Ryan P. Lively",
+          "first": false
+        }
+      ],
+      "doi": "10.1038/nnano.2015.77",
+      "id": "W-CGG0HJ",
+      "issue": "5",
+      "journal": "Nature Nanotechnology",
+      "pages": "385-386",
+      "published_issue": "2015-05",
+      "published_online": "2015-05-07",
+      "representative": null,
+      "schema": 1,
+      "title": "Membranes at the limit",
+      "type": "journal-article",
+      "volume": "10"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": null,
+          "display": "고동연",
+          "first": null
+        }
+      ],
+      "doi": null,
+      "id": "W-J0GJZC",
+      "issue": "1",
+      "journal": "대한조선학회지",
+      "pages": "20-24",
+      "published_issue": "2021-06",
+      "published_online": null,
+      "representative": null,
+      "schema": 1,
+      "title": "선박 적용을 위한 소형 이산화탄소 포집 및 전환 시스템",
+      "type": "other",
+      "volume": "58"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": null,
+          "display": "Mujin Cheon",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": null,
+          "display": "Jay H Lee",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": null,
+          "display": "Dong-Yeun Koh",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": null,
+          "display": "Calvin Tsay",
+          "first": null
+        }
+      ],
+      "doi": null,
+      "id": "W-JBKJ4T",
+      "issue": null,
+      "journal": "Proceedings of the 42nd International Conference on Machine Learning",
+      "pages": "10182-10198",
+      "published_issue": "2025",
+      "published_online": null,
+      "representative": true,
+      "schema": 1,
+      "title": "EARL-BO: Reinforcement Learning for Multi-Step Lookahead, High-Dimensional Bayesian Optimization",
+      "type": "conference-paper",
+      "volume": "267"
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": null,
+          "display": "고동연",
+          "first": null
+        }
+      ],
+      "doi": null,
+      "id": "W-KJYZQT",
+      "issue": null,
+      "journal": "집현네트워크",
+      "pages": null,
+      "published_issue": "2023-11-21",
+      "published_online": null,
+      "representative": null,
+      "schema": 1,
+      "title": "탄소, 이제는 ‘제거’가 시급한 시대다",
+      "type": "other",
+      "volume": null
+    },
+    {
+      "article_number": null,
+      "authors": [],
+      "doi": "10.1038/d41586-026-01896-9",
+      "id": "W-WFT775",
+      "issue": null,
+      "journal": "Nature",
+      "pages": null,
+      "published_issue": null,
+      "published_online": "2026-06-24",
+      "representative": null,
+      "schema": 1,
+      "title": "Crude oil turns cheap porous membrane into a sieve to refine itself without heat",
+      "type": "journal-article",
+      "volume": null
+    },
+    {
+      "article_number": null,
+      "authors": [
+        {
+          "cofirst": null,
+          "corresponding": null,
+          "display": "Cheon, Mujin",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": null,
+          "display": "Odgers, James",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": null,
+          "display": "Koh, Dong-Yeun",
+          "first": null
+        },
+        {
+          "cofirst": null,
+          "corresponding": null,
+          "display": "Tsay, Calvin",
+          "first": null
+        }
+      ],
+      "doi": "10.48550/arxiv.2607.04356",
+      "id": "W-XEFMAV",
+      "issue": null,
+      "journal": "arXiv (Cornell University)",
+      "pages": null,
+      "published_issue": "2026-07-05",
+      "published_online": null,
+      "representative": null,
+      "schema": 1,
+      "title": "How Many Initial Points Does Bayesian Optimization Need?",
+      "type": "preprint",
+      "volume": null
+    }
+  ],
+  "release_id": "R-20261105-1208",
+  "schema": 1,
+  "section_by_work": {
+    "W-2YD2C3": "preprints",
+    "W-36QCZ9": "preprints",
+    "W-64XXCW": "preprints",
+    "W-71YYGX": "commentary_briefings",
+    "W-CGG0HJ": "commentary_briefings",
+    "W-J0GJZC": "contributions",
+    "W-JBKJ4T": "conference_proceedings",
+    "W-KJYZQT": "contributions",
+    "W-WFT775": "commentary_briefings",
+    "W-XEFMAV": "conference_non_main_track"
+  }
+}
