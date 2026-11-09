@@ -1,0 +1,2262 @@
+{
+  "applications": [
+    {
+      "application_kind": null,
+      "filing_date": "2020-06-19",
+      "id": "PA-02EYPY",
+      "inventors": [
+        "高东延",
+        "李永勋",
+        "A·贾马尔"
+      ],
+      "jurisdiction": "CN",
+      "national_phase_date": null,
+      "numbers": [
+        {
+          "date": "2020-06-19",
+          "kind": "application",
+          "value": "202080053455"
+        },
+        {
+          "date": null,
+          "kind": "application",
+          "value": "CN202080053455.3A"
+        },
+        {
+          "date": null,
+          "kind": "publication",
+          "value": "114375224 A"
+        },
+        {
+          "date": null,
+          "kind": "publication",
+          "value": "114375224 B"
+        },
+        {
+          "date": null,
+          "kind": "registration",
+          "value": "CN114375224B"
+        }
+      ],
+      "title": "STRUCTURED METAL-ORGANIC FRAME FIBER ADSORBENTS FOR"
+    },
+    {
+      "application_kind": null,
+      "filing_date": "2016-11-10",
+      "id": "PA-0A2QJ5",
+      "inventors": [
+        "MCCOOL, Benjamin A.",
+        "DECKMAN, Harry W.",
+        "LIVELY, Ryan P.",
+        "KOH, Dong-Yeun",
+        "PARTRIDGE, Randall D."
+      ],
+      "jurisdiction": "EP",
+      "national_phase_date": null,
+      "numbers": [
+        {
+          "date": "2016-11-10",
+          "kind": "application",
+          "value": "16798361.8"
+        },
+        {
+          "date": "2018-09-19",
+          "kind": "publication",
+          "value": "3374057 A1"
+        }
+      ],
+      "title": "REVERSE OSMOSIS MEMBRANES AND SEPARATIONS"
+    },
+    {
+      "application_kind": null,
+      "filing_date": "2025-11-28",
+      "id": "PA-0CDDX8",
+      "inventors": [
+        "고동연, 서혁준, 장민준"
+      ],
+      "jurisdiction": "KR",
+      "national_phase_date": null,
+      "numbers": [
+        {
+          "date": null,
+          "kind": "application",
+          "value": "10-2025-0185321"
+        }
+      ],
+      "title": "금속 기반 부피 배제 메커니즘에 의해 초미세기공이 제어된 탄소 분자체 분리막 및 그 제조방법"
+    },
+    {
+      "application_kind": null,
+      "filing_date": "2022-09-08",
+      "id": "PA-0MQCJD",
+      "inventors": [
+        "장용근",
+        "문성용",
+        "고동연",
+        "김수지",
+        "조철연"
+      ],
+      "jurisdiction": "KR",
+      "national_phase_date": null,
+      "numbers": [
+        {
+          "date": "2022-09-08",
+          "kind": "application",
+          "value": "10-2022-0114328"
+        },
+        {
+          "date": null,
+          "kind": "publication",
+          "value": "10-2024-0035176"
+        },
+        {
+          "date": "2025-02-12",
+          "kind": "registration",
+          "value": "1.02768762E12"
+        }
+      ],
+      "title": "미세조류 내 EPA의 고순도 연속 흡착분리 장치 및 이를 이용한 미세조류 내 EPA의 고순도 연속 흡착분리 방법"
+    },
+    {
+      "application_kind": null,
+      "filing_date": "2016-11-10",
+      "id": "PA-0N2YDC",
+      "inventors": [
+        "McCool, Benjamin A.",
+        "Deckman, Harry W.",
+        "Lively, Ryan P.",
+        "Koh, Dong-Yeun",
+        "Partridge, Randall D."
+      ],
+      "jurisdiction": "AU",
+      "national_phase_date": null,
+      "numbers": [
+        {
+          "date": "2016-11-10",
+          "kind": "application",
+          "value": "2016352994"
+        },
+        {
+          "date": "2018-06-14",
+          "kind": "publication",
+          "value": "2016352994 A1"
+        }
+      ],
+      "title": "Reverse osmosis membranes and separations"
+    },
+    {
+      "application_kind": null,
+      "filing_date": "2016-11-10",
+      "id": "PA-0R6Z7X",
+      "inventors": [
+        "B.A.麦科尔",
+        "H.W.德克曼",
+        "R.P.莱弗利",
+        "D-Y.科",
+        "R.D.帕特里奇"
+      ],
+      "jurisdiction": "CN",
+      "national_phase_date": null,
+      "numbers": [
+        {
+          "date": "2016-11-10",
+          "kind": "application",
+          "value": "201680066357"
+        },
+        {
+          "date": null,
+          "kind": "application",
+          "value": "CN201680066357.7A"
+        },
+        {
+          "date": null,
+          "kind": "publication",
+          "value": "108348844 A"
+        }
+      ],
+      "title": "REVERSE OSMOSIS MEMBRANES AND SEPARATIONS"
+    },
+    {
+      "application_kind": null,
+      "filing_date": "2022-06-14",
+      "id": "PA-116M9A",
+      "inventors": [
+        "고동연",
+        "정진홍",
+        "아킬 자말"
+      ],
+      "jurisdiction": "KR",
+      "national_phase_date": null,
+      "numbers": [
+        {
+          "date": "2022-06-14",
+          "kind": "application",
+          "value": "10-2022-0071860"
+        },
+        {
+          "date": null,
+          "kind": "publication",
+          "value": "10-2023-0171559"
+        },
+        {
+          "date": "2026-02-13",
+          "kind": "registration",
+          "value": "10-2929764-0000"
+        },
+        {
+          "date": null,
+          "kind": "registration",
+          "value": "-"
+        }
+      ],
+      "title": "이산화탄소의 흡착을 위한 파이버 흡착제 및 그 제조방법"
+    },
+    {
+      "application_kind": null,
+      "filing_date": "2016-04-15",
+      "id": "PA-131M96",
+      "inventors": [
+        "Lively, Ryan P.",
+        "Giorges, Aklilu T. G.",
+        "Koh, Dong-Yeun",
+        "Wallace, Robert"
+      ],
+      "jurisdiction": "US",
+      "national_phase_date": null,
+      "numbers": [
+        {
+          "date": "2016-04-15",
+          "kind": "application",
+          "value": "15/567328"
+        },
+        {
+          "date": null,
+          "kind": "publication",
+          "value": "US 2018/0147544 A1"
+        },
+        {
+          "date": null,
+          "kind": "publication",
+          "value": "10632426 B2"
+        },
+        {
+          "date": null,
+          "kind": "publication",
+          "value": "2018147544 A1"
+        },
+        {
+          "date": "2020-04-28",
+          "kind": "registration",
+          "value": "US 10632426 B2"
+        }
+      ],
+      "title": "Hollow fiber membranes for solubilizing a gas into a liquid, devices for same, and processes of same"
+    },
+    {
+      "application_kind": null,
+      "filing_date": "2018-05-11",
+      "id": "PA-1Q0QB8",
+      "inventors": [
+        "BENJAMIN A MCCOOL",
+        "HARRY W DECKMAN",
+        "RYAN P LIVELY",
+        "DONG-YEUN KOH"
+      ],
+      "jurisdiction": "ZA",
+      "national_phase_date": null,
+      "numbers": [
+        {
+          "date": "2018-05-11",
+          "kind": "application",
+          "value": "201803113"
+        },
+        {
+          "date": null,
+          "kind": "publication",
+          "value": "201803113 B"
+        },
+        {
+          "date": null,
+          "kind": "application",
+          "value": "ZA2018/03113A"
+        }
+      ],
+      "title": "HYDROCARBON REVERSE OSMOSIS MEMBRANES AND METHOD OF MANUFACTURE THEREOF"
+    },
+    {
+      "application_kind": null,
+      "filing_date": "2020-02-27",
+      "id": "PA-1XQZEX",
+      "inventors": [
+        "고동연",
+        "황영은",
+        "김규남"
+      ],
+      "jurisdiction": "KR",
+      "national_phase_date": null,
+      "numbers": [
+        {
+          "date": "2020-02-27",
+          "kind": "application",
+          "value": "10-2020-0024294"
+        },
+        {
+          "date": "2020-10-22",
+          "kind": "registration",
+          "value": "1.02171098E12"
+        }
+      ],
+      "title": "광물 탄산화 시스템 및 이를 이용한 광물 탄산화 방법"
+    },
+    {
+      "application_kind": null,
+      "filing_date": "2025-12-02",
+      "id": "PA-1Y18HN",
+      "inventors": [
+        "고동연, 오반석"
+      ],
+      "jurisdiction": "KR",
+      "national_phase_date": null,
+      "numbers": [
+        {
+          "date": null,
+          "kind": "application",
+          "value": "10-2025-0188297"
+        }
+      ],
+      "title": "플라즈마 처리를 이용한 수소 선택적 탄소 분자체 분리막의 제조방법"
+    },
+    {
+      "application_kind": null,
+      "filing_date": "2020-10-06",
+      "id": "PA-1Y3R93",
+      "inventors": [
+        "김대옥",
+        "고동연",
+        "김규남",
+        "황영은",
+        "류성윤",
+        "백경민"
+      ],
+      "jurisdiction": "KR",
+      "national_phase_date": null,
+      "numbers": [
+        {
+          "date": "2020-10-06",
+          "kind": "application",
+          "value": "10-2020-0128724"
+        },
+        {
+          "date": null,
+          "kind": "publication",
+          "value": "10-2022-0046034"
+        },
+        {
+          "date": null,
+          "kind": "registration",
+          "value": "-"
+        }
+      ],
+      "title": "미세다공성 폴리머 섬유 흡착제, 미세다공성 폴리머 섬유 흡착제를 포함한 흡착 모듈, 미세다공성 폴리머 섬유 흡착제를 포함한 흡착 모듈을 이용한 유기 오염 물질 제거 시스템"
+    },
+    {
+      "application_kind": null,
+      "filing_date": "2021-12-19",
+      "id": "PA-2865NH",
+      "inventors": [
+        "لي، يونغ هن",
+        "عقيل، جمال",
+        "كوه، دونغ يون"
+      ],
+      "jurisdiction": "SA",
+      "national_phase_date": null,
+      "numbers": [
+        {
+          "date": "2021-12-19",
+          "kind": "application",
+          "value": "521431143"
+        },
+        {
+          "date": null,
+          "kind": "application",
+          "value": "SA521431143A"
+        },
+        {
+          "date": null,
+          "kind": "publication",
+          "value": "521431143 B1"
+        }
+      ],
+      "title": "STRUCTURED METAL-ORGANIC FRAMEWORK FIBER ADSORBENT FOR CAPTURING CARBON DIOXIDE AND MANUFACTURING METHOD THEREFOR"
+    },
+    {
+      "application_kind": null,
+      "filing_date": "2025-03-25",
+      "id": "PA-2AQ84H",
+      "inventors": [
+        "고동연",
+        "임성갑",
+        "최지훈",
+        "최건우"
+      ],
+      "jurisdiction": "KR",
+      "national_phase_date": null,
+      "numbers": [
+        {
+          "date": "2025-03-25",
+          "kind": "application",
+          "value": "10-2025-0038056"
+        },
+        {
+          "date": null,
+          "kind": "publication",
+          "value": "10-2025-0161398"
+        },
+        {
+          "date": null,
+          "kind": "registration",
+          "value": "-"
+        }
+      ],
+      "title": "유기 실록산 고분자의 선택층을 갖는 분리막, 그 제조 방법 및 이를 이용한 저분자 물질의 분리 방법"
+    },
+    {
+      "application_kind": null,
+      "filing_date": "2016-11-10",
+      "id": "PA-2BEKDP",
+      "inventors": [
+        "McCool, Benjamin A.",
+        "Deckman, Harry W.",
+        "Lively, Ryan P.",
+        "Koh, Dong-Yeun"
+      ],
+      "jurisdiction": "AU",
+      "national_phase_date": null,
+      "numbers": [
+        {
+          "date": "2016-11-10",
+          "kind": "application",
+          "value": "2016352989"
+        },
+        {
+          "date": "2018-05-24",
+          "kind": "publication",
+          "value": "2016352989 A1"
+        }
+      ],
+      "title": "Hydrocarbon reverse osmosis membranes and method of manufacture thereof"
+    },
+    {
+      "application_kind": null,
+      "filing_date": "2022-10-13",
+      "id": "PA-2CHYV9",
+      "inventors": [
+        "高东延",
+        "李永勋",
+        "A·加马尔",
+        "K·金",
+        "J·郑"
+      ],
+      "jurisdiction": "CN",
+      "national_phase_date": null,
+      "numbers": [
+        {
+          "date": "2022-10-13",
+          "kind": "application",
+          "value": "202280070939"
+        },
+        {
+          "date": null,
+          "kind": "application",
+          "value": "CN202280070939.8A"
+        },
+        {
+          "date": null,
+          "kind": "publication",
+          "value": "118450940 A"
+        }
+      ],
+      "title": "Method for producing electrochemical fibrous adsorbent and electro-and variable electromagnetic adsorption method"
+    },
+    {
+      "application_kind": "pct",
+      "filing_date": "2016-11-10",
+      "id": "PA-2MSREP",
+      "inventors": [
+        "MCCOOL, Benjamin, A.",
+        "DECKMAN, Harry, W.",
+        "LIVELY, Ryan, P.",
+        "KOH, Dong-Yeun"
+      ],
+      "jurisdiction": "WO",
+      "national_phase_date": null,
+      "numbers": [
+        {
+          "date": "2016-11-10",
+          "kind": "application",
+          "value": "US2016/061259"
+        },
+        {
+          "date": null,
+          "kind": "application",
+          "value": "PCT/US2016/061259"
+        },
+        {
+          "date": null,
+          "kind": "publication",
+          "value": "2017083478 A1"
+        }
+      ],
+      "title": "REVERSE OSMOSIS MEMBRANES AND SEPARATIONS"
+    },
+    {
+      "application_kind": "pct",
+      "filing_date": "2020-06-19",
+      "id": "PA-2P0B7J",
+      "inventors": [
+        "고동연",
+        "이영훈",
+        "아킬자말"
+      ],
+      "jurisdiction": "WO",
+      "national_phase_date": null,
+      "numbers": [
+        {
+          "date": "2020-06-19",
+          "kind": "application",
+          "value": "KR2020/007939"
+        },
+        {
+          "date": null,
+          "kind": "application",
+          "value": "PCT/KR2020/007939"
+        },
+        {
+          "date": null,
+          "kind": "publication",
+          "value": "2020256450 A1"
+        }
+      ],
+      "title": "STRUCTURED METAL-ORGANIC FRAMEWORK FIBER ADSORBENT FOR CAPTURING CARBON DIOXIDE AND MANUFACTURING METHOD THEREFOR"
+    },
+    {
+      "application_kind": "pct",
+      "filing_date": "2022-10-13",
+      "id": "PA-2Z6VWJ",
+      "inventors": [
+        "고동연",
+        "이영훈",
+        "자말아킬",
+        "김규남",
+        "정진홍"
+      ],
+      "jurisdiction": "WO",
+      "national_phase_date": null,
+      "numbers": [
+        {
+          "date": "2022-10-13",
+          "kind": "application",
+          "value": "KR2022/015484"
+        },
+        {
+          "date": null,
+          "kind": "application",
+          "value": "PCT/KR2022/015484"
+        },
+        {
+          "date": null,
+          "kind": "publication",
+          "value": "2023068651 A1"
+        }
+      ],
+      "title": "METHOD FOR MANUFACTURING ELECTRIFIED FIBER SORBENT, AND ELECTRICAL AND ELECTROMAGNETIC SWING ADSORPTION PROCESS"
+    },
+    {
+      "application_kind": null,
+      "filing_date": "2016-11-10",
+      "id": "PA-306PJ6",
+      "inventors": [
+        "MCCOOL, Benjamin",
+        "DECKMAN, Harry",
+        "LIVELY, Ryan",
+        "KOH, Dong-Yeun",
+        "PARTRIDGE, Randall"
+      ],
+      "jurisdiction": "SG",
+      "national_phase_date": null,
+      "numbers": [
+        {
+          "date": "2016-11-10",
+          "kind": "application",
+          "value": "11201803222V"
+        },
+        {
+          "date": null,
+          "kind": "publication",
+          "value": "11201803222V A"
+        },
+        {
+          "date": null,
+          "kind": "application",
+          "value": "SG11201803222VA"
+        }
+      ],
+      "title": "REVERSE OSMOSIS MEMBRANES AND SEPARATIONS"
+    },
+    {
+      "application_kind": null,
+      "filing_date": "2022-10-13",
+      "id": "PA-3CH07V",
+      "inventors": [
+        "고동연",
+        "이영훈",
+        "아킬 자말",
+        "김규남",
+        "정진홍"
+      ],
+      "jurisdiction": "KR",
+      "national_phase_date": null,
+      "numbers": [
+        {
+          "date": "2022-10-13",
+          "kind": "application",
+          "value": "10-2022-0131234"
+        },
+        {
+          "date": null,
+          "kind": "publication",
+          "value": "10-2023-0057956"
+        },
+        {
+          "date": "2023-06-16",
+          "kind": "registration",
+          "value": "1.02546112E12"
+        }
+      ],
+      "title": "전기화된 파이버 흡착제의 제조방법 및 전기 및 전자기 스윙 흡착 공정"
+    },
+    {
+      "application_kind": null,
+      "filing_date": "2022-10-13",
+      "id": "PA-3NKNRW",
+      "inventors": [
+        "KOH, Dong Yeun",
+        "LEE, Young Hun",
+        "JAMAL, Aqil",
+        "KIM, Kyunam",
+        "JEONG, Jinhong"
+      ],
+      "jurisdiction": "US",
+      "national_phase_date": null,
+      "numbers": [
+        {
+          "date": "2022-10-13",
+          "kind": "application",
+          "value": "202218703341"
+        },
+        {
+          "date": null,
+          "kind": "application",
+          "value": "US18/703,341"
+        },
+        {
+          "date": null,
+          "kind": "publication",
+          "value": "20240416278 A1"
+        }
+      ],
+      "title": "METHOD FOR MANUFACTURING ELECTRIFIED FIBER SORBENT, AND ELECTRICAL AND ELECTROMAGNETIC SWING ADSORPTION PROCESS"
+    },
+    {
+      "application_kind": null,
+      "filing_date": "2016-11-10",
+      "id": "PA-3PG6PP",
+      "inventors": [
+        "McCOOL Benjamin A.",
+        "DECKMAN Harry W.",
+        "LIVELY Ryan P.",
+        "KOH Dong-Yeun",
+        "Partridge Randall D.",
+        "McCool, Benjamin A.",
+        "Deckman, Harry W.",
+        "Lively, Ryan P.",
+        "Koh, Dong-Yeun",
+        "Partridge, Randall D."
+      ],
+      "jurisdiction": "US",
+      "national_phase_date": null,
+      "numbers": [
+        {
+          "date": "2016-11-10",
+          "kind": "application",
+          "value": "15/347993"
+        },
+        {
+          "date": null,
+          "kind": "publication",
+          "value": "US 20170144106 A1"
+        },
+        {
+          "date": null,
+          "kind": "publication",
+          "value": "10486107 B2"
+        },
+        {
+          "date": "2019-11-26",
+          "kind": "registration",
+          "value": "US 10486107 B2"
+        }
+      ],
+      "title": "Reverse osmosis membranes and separations"
+    },
+    {
+      "application_kind": null,
+      "filing_date": "2016-11-10",
+      "id": "PA-3Z3CVS",
+      "inventors": [
+        "B.A.麦科尔",
+        "H.W.德克曼",
+        "R.P.莱弗利",
+        "D-Y.科"
+      ],
+      "jurisdiction": "CN",
+      "national_phase_date": null,
+      "numbers": [
+        {
+          "date": "2016-11-10",
+          "kind": "application",
+          "value": "201680066369"
+        },
+        {
+          "date": null,
+          "kind": "application",
+          "value": "CN201680066369.XA"
+        },
+        {
+          "date": null,
+          "kind": "publication",
+          "value": "108348845 A"
+        }
+      ],
+      "title": "REVERSE OSMOSIS MEMBRANES AND SEPARATIONS"
+    },
+    {
+      "application_kind": null,
+      "filing_date": "2022-10-13",
+      "id": "PA-3ZQTD9",
+      "inventors": [
+        "KOH, Dong Yeun",
+        "LEE, Young Hun",
+        "JAMAL, Aqil",
+        "KIM, Kyunam",
+        "JEONG, Jinhong"
+      ],
+      "jurisdiction": "EP",
+      "national_phase_date": null,
+      "numbers": [
+        {
+          "date": "2022-10-13",
+          "kind": "application",
+          "value": "22883874.4"
+        },
+        {
+          "date": "2024-08-28",
+          "kind": "publication",
+          "value": "4420772 A1"
+        }
+      ],
+      "title": "METHOD FOR MANUFACTURING ELECTRIFIED FIBER SORBENT, AND ELECTRICAL AND ELECTROMAGNETIC SWING ADSORPTION PROCESS"
+    },
+    {
+      "application_kind": null,
+      "filing_date": "2016-11-10",
+      "id": "PA-48HX5F",
+      "inventors": [
+        "МАККУЛ Бенджамин А.",
+        "ДЕКМАН Гарри В.",
+        "ЛАЙВЛИ Райан П.",
+        "КОХ Донг-Еун"
+      ],
+      "jurisdiction": "RU",
+      "national_phase_date": null,
+      "numbers": [
+        {
+          "date": "2016-11-10",
+          "kind": "application",
+          "value": "2018121221"
+        },
+        {
+          "date": null,
+          "kind": "publication",
+          "value": "2018121221 A"
+        },
+        {
+          "date": null,
+          "kind": "publication",
+          "value": "2018121221 A3"
+        },
+        {
+          "date": null,
+          "kind": "publication",
+          "value": "2721915 C2"
+        },
+        {
+          "date": null,
+          "kind": "application",
+          "value": "RU2018121221A"
+        },
+        {
+          "date": null,
+          "kind": "registration",
+          "value": "RU2721915C2"
+        }
+      ],
+      "title": "MEMBRANES FOR REVERSE OSMOSIS OF HYDROCARBONS AND A METHOD FOR PRODUCTION THEREOF"
+    },
+    {
+      "application_kind": null,
+      "filing_date": "2020-06-19",
+      "id": "PA-4G0DWE",
+      "inventors": [
+        "KOH, Dong Yeun",
+        "LEE, Young Hun",
+        "AQIL, Jamal",
+        "Koh, Dong Yeun",
+        "Lee, Young Hun",
+        "Jamal, Aqil"
+      ],
+      "jurisdiction": "US",
+      "national_phase_date": null,
+      "numbers": [
+        {
+          "date": "2020-06-19",
+          "kind": "application",
+          "value": "17/619481"
+        },
+        {
+          "date": null,
+          "kind": "publication",
+          "value": "US 20220401915 A1"
+        },
+        {
+          "date": null,
+          "kind": "publication",
+          "value": "12357964 B2"
+        },
+        {
+          "date": "2025-07-15",
+          "kind": "registration",
+          "value": "US 12357964 B2"
+        }
+      ],
+      "title": "Structured metal-organic framework fiber adsorbent for capturing carbon dioxide and manufacturing method therefor"
+    },
+    {
+      "application_kind": null,
+      "filing_date": "2024-10-07",
+      "id": "PA-53MQ2J",
+      "inventors": [
+        "고동연",
+        "이성규"
+      ],
+      "jurisdiction": "KR",
+      "national_phase_date": null,
+      "numbers": [
+        {
+          "date": "2024-10-07",
+          "kind": "application",
+          "value": "10-2024-0135788"
+        },
+        {
+          "date": null,
+          "kind": "publication",
+          "value": "10-2026-0050401"
+        },
+        {
+          "date": null,
+          "kind": "registration",
+          "value": "-"
+        }
+      ],
+      "title": "구리가 함침된 파이버 형태의 일산화탄소 흡착제 및 그 제조 방법"
+    },
+    {
+      "application_kind": null,
+      "filing_date": "2013-10-21",
+      "id": "PA-5NQF5Y",
+      "inventors": [
+        "이 흔",
+        "고동연"
+      ],
+      "jurisdiction": "KR",
+      "national_phase_date": null,
+      "numbers": [
+        {
+          "date": "2013-10-21",
+          "kind": "application",
+          "value": "10-2013-0125161"
+        },
+        {
+          "date": null,
+          "kind": "publication",
+          "value": "10-2015-0045649"
+        },
+        {
+          "date": "2015-09-25",
+          "kind": "registration",
+          "value": "1.01557556E12"
+        }
+      ],
+      "title": "가스 하이드레이트 외부가스 치환법의 반응 온도를 올리는 방법"
+    },
+    {
+      "application_kind": null,
+      "filing_date": "2021-04-14",
+      "id": "PA-5PWE96",
+      "inventors": [
+        "고동연",
+        "서혁준"
+      ],
+      "jurisdiction": "KR",
+      "national_phase_date": null,
+      "numbers": [
+        {
+          "date": "2021-04-14",
+          "kind": "application",
+          "value": "10-2021-0048282"
+        },
+        {
+          "date": null,
+          "kind": "publication",
+          "value": "10-2022-0142026"
+        },
+        {
+          "date": "2023-05-23",
+          "kind": "registration",
+          "value": "1.02537132E12"
+        }
+      ],
+      "title": "유기용매 정삼투 시스템"
+    },
+    {
+      "application_kind": null,
+      "filing_date": "2020-06-19",
+      "id": "PA-5REZ3R",
+      "inventors": [
+        "KOH, Dong Yeun",
+        "LEE, Young Hun",
+        "AQIL, Jamal"
+      ],
+      "jurisdiction": "EP",
+      "national_phase_date": null,
+      "numbers": [
+        {
+          "date": "2020-06-19",
+          "kind": "application",
+          "value": "20827862.2"
+        },
+        {
+          "date": null,
+          "kind": "application",
+          "value": "EP20827862.2A"
+        },
+        {
+          "date": "2022-04-27",
+          "kind": "publication",
+          "value": "3988205 A1"
+        },
+        {
+          "date": null,
+          "kind": "publication",
+          "value": "3988205 A1"
+        }
+      ],
+      "title": "STRUCTURED METAL-ORGANIC FRAMEWORK FIBER ADSORBENT FOR CAPTURING CARBON DIOXIDE AND MANUFACTURING METHOD THEREFOR"
+    },
+    {
+      "application_kind": null,
+      "filing_date": "2014-02-25",
+      "id": "PA-645W0X",
+      "inventors": [
+        "이 흔",
+        "고동연"
+      ],
+      "jurisdiction": "KR",
+      "national_phase_date": null,
+      "numbers": [
+        {
+          "date": "2014-02-25",
+          "kind": "application",
+          "value": "10-2014-0021735"
+        },
+        {
+          "date": "2014-09-04",
+          "kind": "registration",
+          "value": "1.01440753E12"
+        }
+      ],
+      "title": "이산화탄소와 공기 혼합가스 주입법을 이용한 가스 하이드레이트 생산 방법"
+    },
+    {
+      "application_kind": null,
+      "filing_date": "2022-10-13",
+      "id": "PA-648YGW",
+      "inventors": [
+        "コ  ドンヨン",
+        "イ  ヨンフン",
+        "ジャマル  アキル",
+        "キム  キュナム",
+        "チョン  ジンホン"
+      ],
+      "jurisdiction": "JP",
+      "national_phase_date": null,
+      "numbers": [
+        {
+          "date": "2022-10-13",
+          "kind": "application",
+          "value": "2024-524376"
+        },
+        {
+          "date": null,
+          "kind": "application",
+          "value": "JP2024524376A"
+        },
+        {
+          "date": null,
+          "kind": "publication",
+          "value": "2024538227 A"
+        },
+        {
+          "date": null,
+          "kind": "publication",
+          "value": "7755741 B2"
+        },
+        {
+          "date": "2025-10-07",
+          "kind": "registration",
+          "value": "7755741 B2"
+        }
+      ],
+      "title": "電気化されたファイバー吸着剤の製造方法並びに電気及び電磁スイング吸着プロセス"
+    },
+    {
+      "application_kind": "pct",
+      "filing_date": "2016-11-10",
+      "id": "PA-669PCD",
+      "inventors": [
+        "MCCOOL, Benjamin, A.",
+        "DECKMAN, Harry, W.",
+        "LIVELY, Ryan, P.",
+        "KOH, Dong-Yeun"
+      ],
+      "jurisdiction": "WO",
+      "national_phase_date": null,
+      "numbers": [
+        {
+          "date": "2016-11-10",
+          "kind": "application",
+          "value": "US2016/061251"
+        },
+        {
+          "date": null,
+          "kind": "application",
+          "value": "PCT/US2016/061251"
+        },
+        {
+          "date": null,
+          "kind": "publication",
+          "value": "2017083473 A1"
+        },
+        {
+          "date": null,
+          "kind": "publication",
+          "value": "2017083473 A8"
+        }
+      ],
+      "title": "HYDROCARBON REVERSE OSMOSIS MEMBRANES AND METHOD OF MANUFACTURE THEREOF"
+    },
+    {
+      "application_kind": null,
+      "filing_date": "2024-09-30",
+      "id": "PA-6FCFK0",
+      "inventors": [
+        "고동연",
+        "이성규"
+      ],
+      "jurisdiction": "KR",
+      "national_phase_date": null,
+      "numbers": [
+        {
+          "date": "2024-09-30",
+          "kind": "application",
+          "value": "10-2024-0133372"
+        },
+        {
+          "date": null,
+          "kind": "publication",
+          "value": "10-2026-0047416"
+        },
+        {
+          "date": null,
+          "kind": "registration",
+          "value": "-"
+        }
+      ],
+      "title": "산화 환원 특성을 갖는 고분자 및 그 제조 방법"
+    },
+    {
+      "application_kind": null,
+      "filing_date": "2022-02-10",
+      "id": "PA-6JQSSJ",
+      "inventors": [
+        "고동연",
+        "장정운"
+      ],
+      "jurisdiction": "KR",
+      "national_phase_date": null,
+      "numbers": [
+        {
+          "date": "2022-02-10",
+          "kind": "application",
+          "value": "10-2022-0017299"
+        },
+        {
+          "date": null,
+          "kind": "publication",
+          "value": "10-2023-0120726"
+        },
+        {
+          "date": "2025-04-29",
+          "kind": "registration",
+          "value": "1.02803689E12"
+        }
+      ],
+      "title": "메조포러스 세라믹 지지체의 제조방법"
+    },
+    {
+      "application_kind": null,
+      "filing_date": "2024-04-09",
+      "id": "PA-7BWMMW",
+      "inventors": [
+        "김대옥",
+        "고동연 ",
+        "최우성",
+        "김한솔",
+        "박현지",
+        "김규남",
+        "황영은"
+      ],
+      "jurisdiction": "KR",
+      "national_phase_date": null,
+      "numbers": [
+        {
+          "date": "2024-04-09",
+          "kind": "application",
+          "value": "10-2024-0048081"
+        },
+        {
+          "date": null,
+          "kind": "publication",
+          "value": "10-2025-0121906"
+        },
+        {
+          "date": null,
+          "kind": "registration",
+          "value": "1.020250121906E12"
+        }
+      ],
+      "title": "휘발성 유기 화합물 흡착제, 이의 제조 방법"
+    },
+    {
+      "application_kind": null,
+      "filing_date": "2016-11-10",
+      "id": "PA-7JNPMA",
+      "inventors": [
+        "Harry W. DECKMAN",
+        "Benjamin A. MCCOOL",
+        "Ryan P. LIVELY",
+        "Dong- Yeun KOH",
+        "Randall D. PARTRIDGE"
+      ],
+      "jurisdiction": "MX",
+      "national_phase_date": null,
+      "numbers": [
+        {
+          "date": "2016-11-10",
+          "kind": "application",
+          "value": "2018005938"
+        },
+        {
+          "date": null,
+          "kind": "publication",
+          "value": "2018005938 A"
+        },
+        {
+          "date": null,
+          "kind": "application",
+          "value": "MX2018005938A"
+        }
+      ],
+      "title": "REVERSE OSMOSIS MEMBRANES AND SEPARATIONS."
+    },
+    {
+      "application_kind": null,
+      "filing_date": "2019-06-19",
+      "id": "PA-7YSY3W",
+      "inventors": [
+        "고동연",
+        "이영훈",
+        "아킬 자말"
+      ],
+      "jurisdiction": "KR",
+      "national_phase_date": null,
+      "numbers": [
+        {
+          "date": "2019-06-19",
+          "kind": "application",
+          "value": "10-2019-0073151"
+        },
+        {
+          "date": null,
+          "kind": "publication",
+          "value": "10-2020-0145906"
+        },
+        {
+          "date": "2021-07-06",
+          "kind": "registration",
+          "value": "1.02275948E12"
+        }
+      ],
+      "title": "이산화탄소 포집을 위한 구조화된 금속-유기 골격체 파이버 흡착제 및 이의 제조방법"
+    },
+    {
+      "application_kind": null,
+      "filing_date": "2026-02-26",
+      "id": "PA-80HN4J",
+      "inventors": [
+        "고동연, 최지훈, 서혁준"
+      ],
+      "jurisdiction": "KR",
+      "national_phase_date": null,
+      "numbers": [
+        {
+          "date": "2026-02-26",
+          "kind": "application",
+          "value": "10-2026-7000751"
+        },
+        {
+          "date": null,
+          "kind": "publication",
+          "value": "10-2026-0035893"
+        }
+      ],
+      "title": "동적 선택층을 이용한 탄화수소 공급원료의 분리방법 및 이를 포함하는 정제장치"
+    },
+    {
+      "application_kind": null,
+      "filing_date": "2016-11-10",
+      "id": "PA-85Y4ZZ",
+      "inventors": [
+        "McCOOL Benjamin A.",
+        "DECKMAN Harry W.",
+        "LIVELY Ryan P.",
+        "KOH Dong-Yeun",
+        "McCool, Benjamin A.",
+        "Deckman, Harry W.",
+        "Lively, Ryan P.",
+        "Koh, Dong-Yeun"
+      ],
+      "jurisdiction": "US",
+      "national_phase_date": null,
+      "numbers": [
+        {
+          "date": "2016-11-10",
+          "kind": "application",
+          "value": "15/347978"
+        },
+        {
+          "date": null,
+          "kind": "publication",
+          "value": "US 20170136420 A1"
+        },
+        {
+          "date": null,
+          "kind": "publication",
+          "value": "10456747 B2"
+        },
+        {
+          "date": "2019-10-29",
+          "kind": "registration",
+          "value": "US 10456747 B2"
+        }
+      ],
+      "title": "Hydrocarbon reverse osmosis membranes and separations"
+    },
+    {
+      "application_kind": null,
+      "filing_date": "2012-12-15",
+      "id": "PA-96580D",
+      "inventors": [
+        "이흔, 고동연"
+      ],
+      "jurisdiction": "WO",
+      "national_phase_date": null,
+      "numbers": [
+        {
+          "date": null,
+          "kind": "application",
+          "value": "PCT/KR2012/010971"
+        }
+      ],
+      "title": "Method of producing methane gas from gas hydrate by injecting gas"
+    },
+    {
+      "application_kind": null,
+      "filing_date": "2018-05-11",
+      "id": "PA-990ZBX",
+      "inventors": [
+        "BENJAMIN A MCCOOL",
+        "HARRY W DECKMAN",
+        "RYAN P LIVELY",
+        "DONG-YEUN KOH",
+        "RANDALL D PARTRIDGE"
+      ],
+      "jurisdiction": "ZA",
+      "national_phase_date": null,
+      "numbers": [
+        {
+          "date": "2018-05-11",
+          "kind": "application",
+          "value": "201803112"
+        },
+        {
+          "date": null,
+          "kind": "publication",
+          "value": "201803112 B"
+        },
+        {
+          "date": null,
+          "kind": "application",
+          "value": "ZA2018/03112A"
+        }
+      ],
+      "title": "REVERSE OSMOSIS MEMBRANES AND SEPARATIONS"
+    },
+    {
+      "application_kind": null,
+      "filing_date": "2024-01-26",
+      "id": "PA-9H97DT",
+      "inventors": [
+        "박대선",
+        "고동연",
+        "김인혁",
+        "박지민",
+        "김대옥"
+      ],
+      "jurisdiction": "KR",
+      "national_phase_date": null,
+      "numbers": [
+        {
+          "date": "2024-01-26",
+          "kind": "application",
+          "value": "10-2024-0011968"
+        },
+        {
+          "date": null,
+          "kind": "publication",
+          "value": "10-2025-0117490"
+        }
+      ],
+      "title": "불소 함유 폐수 처리 시스템"
+    },
+    {
+      "application_kind": null,
+      "filing_date": "2016-11-04",
+      "id": "PA-AV8XBC",
+      "inventors": [
+        "MCCOOL, BENJAMIN A.",
+        "DECKMAN, HARRY WILLIAM",
+        "KOH, DONG-YEUN",
+        "LIVELY, RYAN P."
+      ],
+      "jurisdiction": "TW",
+      "national_phase_date": null,
+      "numbers": [
+        {
+          "date": "2016-11-04",
+          "kind": "application",
+          "value": "105135994"
+        },
+        {
+          "date": null,
+          "kind": "publication",
+          "value": "201733664 A"
+        },
+        {
+          "date": "2017-10-01",
+          "kind": "publication",
+          "value": "201733664"
+        },
+        {
+          "date": null,
+          "kind": "application",
+          "value": "TW105135994A"
+        }
+      ],
+      "title": "HYDROCARBON REVERSE OSMOSIS MEMBRANES AND SEPARATIONS"
+    },
+    {
+      "application_kind": null,
+      "filing_date": "2022-10-13",
+      "id": "PA-AW8S9W",
+      "inventors": [
+        "KOH, Dong Yeun",
+        "LEE, Young Hun",
+        "JAMAL, Aqil",
+        "KIM, Kyunam",
+        "JEONG, Jinhong"
+      ],
+      "jurisdiction": "AU",
+      "national_phase_date": null,
+      "numbers": [
+        {
+          "date": "2022-10-13",
+          "kind": "application",
+          "value": "2022368476"
+        },
+        {
+          "date": null,
+          "kind": "application",
+          "value": "AU2022368476A"
+        },
+        {
+          "date": "2024-05-30",
+          "kind": "publication",
+          "value": "2022368476 A1"
+        },
+        {
+          "date": null,
+          "kind": "publication",
+          "value": "2022368476 B2"
+        }
+      ],
+      "title": "METHOD FOR MANUFACTURING ELECTRIFIED FIBER SORBENT, AND ELECTRICAL AND ELECTROMAGNETIC SWING ADSORPTION PROCESS"
+    },
+    {
+      "application_kind": null,
+      "filing_date": "2016-11-04",
+      "id": "PA-B1HAHN",
+      "inventors": [
+        "MCCOOL, BENJAMIN A.",
+        "DECKMAN, HARRY WILLIAM",
+        "LIVELY, RYAN P.",
+        "KOH, DONG-YEUN"
+      ],
+      "jurisdiction": "TW",
+      "national_phase_date": null,
+      "numbers": [
+        {
+          "date": "2016-11-04",
+          "kind": "application",
+          "value": "105135995"
+        },
+        {
+          "date": null,
+          "kind": "publication",
+          "value": "201733915 A"
+        },
+        {
+          "date": "2017-10-01",
+          "kind": "publication",
+          "value": "201733915"
+        },
+        {
+          "date": null,
+          "kind": "application",
+          "value": "TW105135995A"
+        }
+      ],
+      "title": "REVERSE OSMOSIS MEMBRANES AND SEPARATIONS"
+    },
+    {
+      "application_kind": null,
+      "filing_date": "2026-02-27",
+      "id": "PA-BGNGVE",
+      "inventors": [
+        "고동연, 박인준"
+      ],
+      "jurisdiction": "KR",
+      "national_phase_date": null,
+      "numbers": [
+        {
+          "date": "2026-02-27",
+          "kind": "application",
+          "value": "10-2024-0122365"
+        },
+        {
+          "date": null,
+          "kind": "publication",
+          "value": "10-2026-0036796"
+        }
+      ],
+      "title": "3D 프린팅을 이용한 칼슘 화합물 구조체 제조 및 이를 통한 건식 탄산화 반응 시스템"
+    },
+    {
+      "application_kind": null,
+      "filing_date": "2024-09-27",
+      "id": "PA-C17TQG",
+      "inventors": [
+        "박찬우",
+        "고동연",
+        "허희령",
+        "김형주",
+        "양희만"
+      ],
+      "jurisdiction": "KR",
+      "national_phase_date": null,
+      "numbers": [
+        {
+          "date": "2024-09-27",
+          "kind": "application",
+          "value": "10-2024-0131636"
+        },
+        {
+          "date": null,
+          "kind": "publication",
+          "value": "10-2026-0045275"
+        },
+        {
+          "date": null,
+          "kind": "registration",
+          "value": "-"
+        }
+      ],
+      "title": "수소 동위원소 교환용 촉매 복합체 및 그 제조 방법"
+    },
+    {
+      "application_kind": null,
+      "filing_date": null,
+      "id": "PA-C4BMSF",
+      "inventors": [],
+      "jurisdiction": "SA",
+      "national_phase_date": null,
+      "numbers": [],
+      "title": "Manufacturing Method of Electrified Fiber Sorbent for Electric and Electromagnetic Swing Adsorption Process,"
+    },
+    {
+      "application_kind": null,
+      "filing_date": "2022-11-30",
+      "id": "PA-C6T64X",
+      "inventors": [
+        "김대옥",
+        "고동연",
+        "김인혁",
+        "장정운"
+      ],
+      "jurisdiction": "KR",
+      "national_phase_date": null,
+      "numbers": [
+        {
+          "date": "2022-11-30",
+          "kind": "application",
+          "value": "10-2022-0165110"
+        },
+        {
+          "date": null,
+          "kind": "publication",
+          "value": "10-2024-0081139"
+        },
+        {
+          "date": null,
+          "kind": "registration",
+          "value": "-"
+        }
+      ],
+      "title": "폐수 처리 방법 및 폐수 처리 장치"
+    },
+    {
+      "application_kind": null,
+      "filing_date": "2014-07-11",
+      "id": "PA-EC0A7B",
+      "inventors": [
+        "LEE HUEN",
+        "KOH DONG YEUN",
+        "Lee Huen",
+        "Koh Dong Yeun"
+      ],
+      "jurisdiction": "US",
+      "national_phase_date": null,
+      "numbers": [
+        {
+          "date": "2014-07-11",
+          "kind": "application",
+          "value": "201414328953"
+        },
+        {
+          "date": null,
+          "kind": "application",
+          "value": "US14/328,953"
+        },
+        {
+          "date": null,
+          "kind": "publication",
+          "value": "9429003 B2"
+        },
+        {
+          "date": null,
+          "kind": "registration",
+          "value": "US9429003B2"
+        }
+      ],
+      "title": "Method for recovering methane gas from natural gas hydrate by injecting CO2 and air mixed gas"
+    },
+    {
+      "application_kind": null,
+      "filing_date": "2014-07-11",
+      "id": "PA-GJPXXM",
+      "inventors": [
+        "リー、ファン",
+        "コー、ドン  ユアン"
+      ],
+      "jurisdiction": "JP",
+      "national_phase_date": null,
+      "numbers": [
+        {
+          "date": "2014-07-11",
+          "kind": "application",
+          "value": "2014142899"
+        },
+        {
+          "date": null,
+          "kind": "application",
+          "value": "JP2014142899A"
+        },
+        {
+          "date": null,
+          "kind": "publication",
+          "value": "2015081346 A"
+        }
+      ],
+      "title": "METHOD OF PRODUCING GAS HYDRATE USING METHOD OF INJECTING MIXED GAS OF CARBON DIOXIDE AND AIR"
+    },
+    {
+      "application_kind": null,
+      "filing_date": "2024-04-21",
+      "id": "PA-H74TBE",
+      "inventors": [],
+      "jurisdiction": "SA",
+      "national_phase_date": null,
+      "numbers": [
+        {
+          "date": null,
+          "kind": "application",
+          "value": "SA1120242080"
+        }
+      ],
+      "title": "Method for manufacturing electrified fiber sorbent, and electrical and electromagnetic swing adsorption process"
+    },
+    {
+      "application_kind": null,
+      "filing_date": "2025-01-14",
+      "id": "PA-H96TWQ",
+      "inventors": [
+        "Daeok Kim, Dongyeun Koh, Woosung CHOI, Hansol KIM, Hyeonji PARK, Kyunam Kim, Youngeun HWANG"
+      ],
+      "jurisdiction": "US",
+      "national_phase_date": null,
+      "numbers": [
+        {
+          "date": null,
+          "kind": "application",
+          "value": "US19/020714"
+        }
+      ],
+      "title": "Volatile organic compound (VOC) adsorbent and method of manufacturing the same"
+    },
+    {
+      "application_kind": null,
+      "filing_date": "2016-11-10",
+      "id": "PA-MEMZC1",
+      "inventors": [
+        "MCCOOL, BENJAMIN A.",
+        "DECKMAN, HARRY W.",
+        "LIVELY, RYAN P.",
+        "KOH, DONG-YEUN",
+        "PARTRIDGE, RANDALL D."
+      ],
+      "jurisdiction": "CA",
+      "national_phase_date": null,
+      "numbers": [
+        {
+          "date": "2016-11-10",
+          "kind": "application",
+          "value": "3005215"
+        },
+        {
+          "date": null,
+          "kind": "publication",
+          "value": "3005215 A1"
+        }
+      ],
+      "title": "REVERSE OSMOSIS MEMBRANES AND SEPARATIONS"
+    },
+    {
+      "application_kind": null,
+      "filing_date": null,
+      "id": "PA-NN1JXD",
+      "inventors": [],
+      "jurisdiction": "EP",
+      "national_phase_date": null,
+      "numbers": [],
+      "title": "Manufacturing Method of Electrified Fiber Sorbent for Electric and Electromagnetic Swing Adsorption Process,"
+    },
+    {
+      "application_kind": null,
+      "filing_date": "2016-11-10",
+      "id": "PA-NQP40K",
+      "inventors": [
+        "Harry W. DECKMAN",
+        "Ryan P. LIVELY",
+        "Dong- Yeun KOH",
+        "Benjamin A. MCCOOL"
+      ],
+      "jurisdiction": "MX",
+      "national_phase_date": null,
+      "numbers": [
+        {
+          "date": "2016-11-10",
+          "kind": "application",
+          "value": "2018005939"
+        },
+        {
+          "date": null,
+          "kind": "publication",
+          "value": "2018005939 A"
+        },
+        {
+          "date": null,
+          "kind": "application",
+          "value": "MX2018005939A"
+        }
+      ],
+      "title": "HYDROCARBON REVERSE OSMOSIS MEMBRANES AND METHOD OF MANUFACTURE THEREOF."
+    },
+    {
+      "application_kind": "pct",
+      "filing_date": "2016-04-15",
+      "id": "PA-P1EB32",
+      "inventors": [
+        "LIVELY, Ryan P.",
+        "GIORGES, Aklilu T. G.",
+        "KOH, Dong-Yeun",
+        "WALLACE, Robert"
+      ],
+      "jurisdiction": "WO",
+      "national_phase_date": null,
+      "numbers": [
+        {
+          "date": "2016-04-15",
+          "kind": "application",
+          "value": "US2016/027819"
+        },
+        {
+          "date": null,
+          "kind": "application",
+          "value": "PCT/US2016/027819"
+        },
+        {
+          "date": null,
+          "kind": "publication",
+          "value": "2016168644 A1"
+        }
+      ],
+      "title": "HOLLOW FIBER MEMBRANES FOR SOLUBILIZING A GAS INTO A LIQUID, DEVICES FOR SAME, AND PROCESSES OF SAME"
+    },
+    {
+      "application_kind": null,
+      "filing_date": "2016-11-10",
+      "id": "PA-QAVYZ5",
+      "inventors": [
+        "MCCOOL, Benjamin A.",
+        "DECKMAN, Harry W.",
+        "LIVELY, Ryan P.",
+        "KOH, Dong-Yeun"
+      ],
+      "jurisdiction": "EP",
+      "national_phase_date": null,
+      "numbers": [
+        {
+          "date": "2016-11-10",
+          "kind": "application",
+          "value": "16798360.0"
+        },
+        {
+          "date": "2018-09-19",
+          "kind": "publication",
+          "value": "3374056 A1"
+        }
+      ],
+      "title": "HYDROCARBON REVERSE OSMOSIS MEMBRANES AND METHOD OF MANUFACTURE THEREOF"
+    },
+    {
+      "application_kind": null,
+      "filing_date": "2016-11-10",
+      "id": "PA-QXXHCK",
+      "inventors": [
+        "MCCOOL, BENJAMIN A.",
+        "DECKMAN, HARRY W.",
+        "LIVELY, RYAN P.",
+        "KOH, DONG-YEUN"
+      ],
+      "jurisdiction": "CA",
+      "national_phase_date": null,
+      "numbers": [
+        {
+          "date": "2016-11-10",
+          "kind": "application",
+          "value": "3005205"
+        },
+        {
+          "date": null,
+          "kind": "publication",
+          "value": "3005205 A1"
+        }
+      ],
+      "title": "HYDROCARBON REVERSE OSMOSIS MEMBRANES AND METHOD OF MANUFACTURE THEREOF"
+    },
+    {
+      "application_kind": null,
+      "filing_date": "2016-11-10",
+      "id": "PA-RT53N0",
+      "inventors": [
+        "MCCOOL, Benjamin",
+        "DECKMAN, Harry",
+        "LIVELY, Ryan",
+        "KOH, Dong-Yeun"
+      ],
+      "jurisdiction": "SG",
+      "national_phase_date": null,
+      "numbers": [
+        {
+          "date": "2016-11-10",
+          "kind": "application",
+          "value": "11201803224W"
+        },
+        {
+          "date": null,
+          "kind": "publication",
+          "value": "11201803224W A"
+        },
+        {
+          "date": null,
+          "kind": "application",
+          "value": "SG11201803224WA"
+        }
+      ],
+      "title": "HYDROCARBON REVERSE OSMOSIS MEMBRANES AND METHOD OF MANUFACTURE THEREOF"
+    },
+    {
+      "application_kind": null,
+      "filing_date": "2025-05-26",
+      "id": "PA-Z5910P",
+      "inventors": [
+        "고동연, 박인준"
+      ],
+      "jurisdiction": "KR",
+      "national_phase_date": null,
+      "numbers": [
+        {
+          "date": "2025-05-26",
+          "kind": "application",
+          "value": "10-2023-0154780"
+        },
+        {
+          "date": null,
+          "kind": "publication",
+          "value": "1.020250068365E12"
+        },
+        {
+          "date": null,
+          "kind": "registration",
+          "value": "-"
+        }
+      ],
+      "title": "용매 없는 건식 제조 공정을 이용한 기체 포집용 흡착제 및 그 제조방법"
+    }
+  ],
+  "content_sha256": "abbe9dd22a01ed34e4c43066400feae72efa3a712b58d9ce382e7ec5f134f181",
+  "display_policy": "owner-patent-snapshot@4",
+  "groups": [
+    {
+      "application_ids": [
+        "PA-BGNGVE"
+      ],
+      "id": "PA-BGNGVE",
+      "is_family": false,
+      "jurisdictions": [
+        "KR"
+      ],
+      "title": "3D 프린팅을 이용한 칼슘 화합물 구조체 제조 및 이를 통한 건식 탄산화 반응 시스템"
+    },
+    {
+      "application_ids": [
+        "PA-80HN4J"
+      ],
+      "id": "PA-80HN4J",
+      "is_family": false,
+      "jurisdictions": [
+        "KR"
+      ],
+      "title": "동적 선택층을 이용한 탄화수소 공급원료의 분리방법 및 이를 포함하는 정제장치"
+    },
+    {
+      "application_ids": [
+        "PA-1Y18HN"
+      ],
+      "id": "PA-1Y18HN",
+      "is_family": false,
+      "jurisdictions": [
+        "KR"
+      ],
+      "title": "플라즈마 처리를 이용한 수소 선택적 탄소 분자체 분리막의 제조방법"
+    },
+    {
+      "application_ids": [
+        "PA-0CDDX8"
+      ],
+      "id": "PA-0CDDX8",
+      "is_family": false,
+      "jurisdictions": [
+        "KR"
+      ],
+      "title": "금속 기반 부피 배제 메커니즘에 의해 초미세기공이 제어된 탄소 분자체 분리막 및 그 제조방법"
+    },
+    {
+      "application_ids": [
+        "PA-Z5910P"
+      ],
+      "id": "PA-Z5910P",
+      "is_family": false,
+      "jurisdictions": [
+        "KR"
+      ],
+      "title": "용매 없는 건식 제조 공정을 이용한 기체 포집용 흡착제 및 그 제조방법"
+    },
+    {
+      "application_ids": [
+        "PA-2AQ84H"
+      ],
+      "id": "PA-2AQ84H",
+      "is_family": false,
+      "jurisdictions": [
+        "KR"
+      ],
+      "title": "유기 실록산 고분자의 선택층을 갖는 분리막, 그 제조 방법 및 이를 이용한 저분자 물질의 분리 방법"
+    },
+    {
+      "application_ids": [
+        "PA-H96TWQ"
+      ],
+      "id": "PA-H96TWQ",
+      "is_family": false,
+      "jurisdictions": [
+        "US"
+      ],
+      "title": "Volatile organic compound (VOC) adsorbent and method of manufacturing the same"
+    },
+    {
+      "application_ids": [
+        "PA-53MQ2J"
+      ],
+      "id": "PA-53MQ2J",
+      "is_family": false,
+      "jurisdictions": [
+        "KR"
+      ],
+      "title": "구리가 함침된 파이버 형태의 일산화탄소 흡착제 및 그 제조 방법"
+    },
+    {
+      "application_ids": [
+        "PA-6FCFK0"
+      ],
+      "id": "PA-6FCFK0",
+      "is_family": false,
+      "jurisdictions": [
+        "KR"
+      ],
+      "title": "산화 환원 특성을 갖는 고분자 및 그 제조 방법"
+    },
+    {
+      "application_ids": [
+        "PA-C17TQG"
+      ],
+      "id": "PA-C17TQG",
+      "is_family": false,
+      "jurisdictions": [
+        "KR"
+      ],
+      "title": "수소 동위원소 교환용 촉매 복합체 및 그 제조 방법"
+    },
+    {
+      "application_ids": [
+        "PA-3CH07V",
+        "PA-2Z6VWJ",
+        "PA-AW8S9W",
+        "PA-2CHYV9",
+        "PA-3ZQTD9",
+        "PA-648YGW",
+        "PA-H74TBE",
+        "PA-3NKNRW"
+      ],
+      "id": "PF-EWGHXW",
+      "is_family": true,
+      "jurisdictions": [
+        "KR",
+        "WO",
+        "AU",
+        "CN",
+        "EP",
+        "JP",
+        "SA",
+        "US"
+      ],
+      "title": "전기화된 파이버 흡착제의 제조방법 및 전기 및 전자기 스윙 흡착 공정"
+    },
+    {
+      "application_ids": [
+        "PA-7BWMMW"
+      ],
+      "id": "PA-7BWMMW",
+      "is_family": false,
+      "jurisdictions": [
+        "KR"
+      ],
+      "title": "휘발성 유기 화합물 흡착제, 이의 제조 방법"
+    },
+    {
+      "application_ids": [
+        "PA-9H97DT"
+      ],
+      "id": "PA-9H97DT",
+      "is_family": false,
+      "jurisdictions": [
+        "KR"
+      ],
+      "title": "불소 함유 폐수 처리 시스템"
+    },
+    {
+      "application_ids": [
+        "PA-C6T64X"
+      ],
+      "id": "PA-C6T64X",
+      "is_family": false,
+      "jurisdictions": [
+        "KR"
+      ],
+      "title": "폐수 처리 방법 및 폐수 처리 장치"
+    },
+    {
+      "application_ids": [
+        "PA-0MQCJD"
+      ],
+      "id": "PA-0MQCJD",
+      "is_family": false,
+      "jurisdictions": [
+        "KR"
+      ],
+      "title": "미세조류 내 EPA의 고순도 연속 흡착분리 장치 및 이를 이용한 미세조류 내 EPA의 고순도 연속 흡착분리 방법"
+    },
+    {
+      "application_ids": [
+        "PA-116M9A"
+      ],
+      "id": "PA-116M9A",
+      "is_family": false,
+      "jurisdictions": [
+        "KR"
+      ],
+      "title": "이산화탄소의 흡착을 위한 파이버 흡착제 및 그 제조방법"
+    },
+    {
+      "application_ids": [
+        "PA-6JQSSJ"
+      ],
+      "id": "PA-6JQSSJ",
+      "is_family": false,
+      "jurisdictions": [
+        "KR"
+      ],
+      "title": "메조포러스 세라믹 지지체의 제조방법"
+    },
+    {
+      "application_ids": [
+        "PA-7YSY3W",
+        "PA-2P0B7J",
+        "PA-02EYPY",
+        "PA-5REZ3R",
+        "PA-2865NH",
+        "PA-4G0DWE"
+      ],
+      "id": "PF-0QNXRD",
+      "is_family": true,
+      "jurisdictions": [
+        "KR",
+        "WO",
+        "CN",
+        "EP",
+        "SA",
+        "US"
+      ],
+      "title": "이산화탄소 포집을 위한 구조화된 금속-유기 골격체 파이버 흡착제 및 이의 제조방법"
+    },
+    {
+      "application_ids": [
+        "PA-5PWE96"
+      ],
+      "id": "PA-5PWE96",
+      "is_family": false,
+      "jurisdictions": [
+        "KR"
+      ],
+      "title": "유기용매 정삼투 시스템"
+    },
+    {
+      "application_ids": [
+        "PA-1Y3R93"
+      ],
+      "id": "PA-1Y3R93",
+      "is_family": false,
+      "jurisdictions": [
+        "KR"
+      ],
+      "title": "미세다공성 폴리머 섬유 흡착제, 미세다공성 폴리머 섬유 흡착제를 포함한 흡착 모듈, 미세다공성 폴리머 섬유 흡착제를 포함한 흡착 모듈을 이용한 유기 오염 물질 제거 시스템"
+    },
+    {
+      "application_ids": [
+        "PA-1XQZEX"
+      ],
+      "id": "PA-1XQZEX",
+      "is_family": false,
+      "jurisdictions": [
+        "KR"
+      ],
+      "title": "광물 탄산화 시스템 및 이를 이용한 광물 탄산화 방법"
+    },
+    {
+      "application_ids": [
+        "PA-2MSREP",
+        "PA-669PCD",
+        "PA-0N2YDC",
+        "PA-2BEKDP",
+        "PA-MEMZC1",
+        "PA-QXXHCK",
+        "PA-0R6Z7X",
+        "PA-3Z3CVS",
+        "PA-0A2QJ5",
+        "PA-QAVYZ5",
+        "PA-7JNPMA",
+        "PA-NQP40K",
+        "PA-48HX5F",
+        "PA-306PJ6",
+        "PA-RT53N0",
+        "PA-AV8XBC",
+        "PA-B1HAHN",
+        "PA-3PG6PP",
+        "PA-85Y4ZZ",
+        "PA-1Q0QB8",
+        "PA-990ZBX"
+      ],
+      "id": "PF-84WZEG",
+      "is_family": true,
+      "jurisdictions": [
+        "WO",
+        "AU",
+        "CA",
+        "CN",
+        "EP",
+        "MX",
+        "RU",
+        "SG",
+        "TW",
+        "US",
+        "ZA"
+      ],
+      "title": "REVERSE OSMOSIS MEMBRANES AND SEPARATIONS"
+    },
+    {
+      "application_ids": [
+        "PA-P1EB32",
+        "PA-131M96"
+      ],
+      "id": "PF-XW3Q56",
+      "is_family": true,
+      "jurisdictions": [
+        "WO",
+        "US"
+      ],
+      "title": "Hollow fiber membranes for solubilizing a gas into a liquid, devices for same, and processes of same"
+    },
+    {
+      "application_ids": [
+        "PA-645W0X",
+        "PA-GJPXXM",
+        "PA-EC0A7B"
+      ],
+      "id": "PF-PDFS29",
+      "is_family": true,
+      "jurisdictions": [
+        "KR",
+        "JP",
+        "US"
+      ],
+      "title": "이산화탄소와 공기 혼합가스 주입법을 이용한 가스 하이드레이트 생산 방법"
+    },
+    {
+      "application_ids": [
+        "PA-5NQF5Y"
+      ],
+      "id": "PA-5NQF5Y",
+      "is_family": false,
+      "jurisdictions": [
+        "KR"
+      ],
+      "title": "가스 하이드레이트 외부가스 치환법의 반응 온도를 올리는 방법"
+    },
+    {
+      "application_ids": [
+        "PA-96580D"
+      ],
+      "id": "PA-96580D",
+      "is_family": false,
+      "jurisdictions": [
+        "WO"
+      ],
+      "title": "Method of producing methane gas from gas hydrate by injecting gas"
+    },
+    {
+      "application_ids": [
+        "PA-C4BMSF"
+      ],
+      "id": "PA-C4BMSF",
+      "is_family": false,
+      "jurisdictions": [
+        "SA"
+      ],
+      "title": "Manufacturing Method of Electrified Fiber Sorbent for Electric and Electromagnetic Swing Adsorption Process,"
+    },
+    {
+      "application_ids": [
+        "PA-NN1JXD"
+      ],
+      "id": "PA-NN1JXD",
+      "is_family": false,
+      "jurisdictions": [
+        "EP"
+      ],
+      "title": "Manufacturing Method of Electrified Fiber Sorbent for Electric and Electromagnetic Swing Adsorption Process,"
+    }
+  ],
+  "release_id": "R-20261109-0918",
+  "schema": 1,
+  "selection_sha256": "58f8a66420161f8cc9592c32250a94f5228d095b0bd3d4d2194d50ee408ecf39"
+}
