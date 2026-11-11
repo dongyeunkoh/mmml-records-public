@@ -818,12 +818,9 @@
       "filing_date": "2020-06-19",
       "id": "PA-4G0DWE",
       "inventors": [
-        "KOH, Dong Yeun",
-        "LEE, Young Hun",
-        "AQIL, Jamal",
-        "Koh, Dong Yeun",
-        "Lee, Young Hun",
-        "Jamal, Aqil"
+        "Dong Yeun KOH",
+        "Young Hun LEE",
+        "Jamal AQIL"
       ],
       "jurisdiction": "US",
       "national_phase_date": null,
@@ -1240,13 +1237,8 @@
       "national_phase_date": null,
       "numbers": [
         {
-          "date": "2026-02-26",
-          "kind": "application",
-          "value": "10-2026-7000751"
-        },
-        {
           "date": null,
-          "kind": "publication",
+          "kind": "application",
           "value": "10-2026-0035893"
         }
       ],
@@ -1297,7 +1289,8 @@
       "filing_date": "2012-12-15",
       "id": "PA-96580D",
       "inventors": [
-        "이흔, 고동연"
+        "LEE, HUEN",
+        "KOH, DONG-YEUN"
       ],
       "jurisdiction": "WO",
       "national_phase_date": null,
@@ -1489,13 +1482,8 @@
       "national_phase_date": null,
       "numbers": [
         {
-          "date": "2026-02-27",
-          "kind": "application",
-          "value": "10-2024-0122365"
-        },
-        {
           "date": null,
-          "kind": "publication",
+          "kind": "application",
           "value": "10-2026-0036796"
         }
       ],
@@ -1535,16 +1523,6 @@
     },
     {
       "application_kind": null,
-      "filing_date": null,
-      "id": "PA-C4BMSF",
-      "inventors": [],
-      "jurisdiction": "SA",
-      "national_phase_date": null,
-      "numbers": [],
-      "title": "Manufacturing Method of Electrified Fiber Sorbent for Electric and Electromagnetic Swing Adsorption Process,"
-    },
-    {
-      "application_kind": null,
       "filing_date": "2022-11-30",
       "id": "PA-C6T64X",
       "inventors": [
@@ -1579,10 +1557,8 @@
       "filing_date": "2014-07-11",
       "id": "PA-EC0A7B",
       "inventors": [
-        "LEE HUEN",
-        "KOH DONG YEUN",
-        "Lee Huen",
-        "Koh Dong Yeun"
+        "Huen Lee",
+        "Dong Yeun Koh"
       ],
       "jurisdiction": "US",
       "national_phase_date": null,
@@ -1660,7 +1636,13 @@
       "filing_date": "2025-01-14",
       "id": "PA-H96TWQ",
       "inventors": [
-        "Daeok Kim, Dongyeun Koh, Woosung CHOI, Hansol KIM, Hyeonji PARK, Kyunam Kim, Youngeun HWANG"
+        "KIM, Daeok",
+        "KOH, Dongyeun",
+        "CHOI, Woosung",
+        "KIM, Hansol",
+        "PARK, Hyeonji",
+        "KIM, Kyunam",
+        "HWANG, Youngeun"
       ],
       "jurisdiction": "US",
       "national_phase_date": null,
@@ -1699,16 +1681,6 @@
         }
       ],
       "title": "REVERSE OSMOSIS MEMBRANES AND SEPARATIONS"
-    },
-    {
-      "application_kind": null,
-      "filing_date": null,
-      "id": "PA-NN1JXD",
-      "inventors": [],
-      "jurisdiction": "EP",
-      "national_phase_date": null,
-      "numbers": [],
-      "title": "Manufacturing Method of Electrified Fiber Sorbent for Electric and Electromagnetic Swing Adsorption Process,"
     },
     {
       "application_kind": null,
@@ -1866,13 +1838,8 @@
       "national_phase_date": null,
       "numbers": [
         {
-          "date": "2025-05-26",
-          "kind": "application",
-          "value": "10-2023-0154780"
-        },
-        {
           "date": null,
-          "kind": "publication",
+          "kind": "application",
           "value": "1.020250068365E12"
         },
         {
@@ -1884,7 +1851,7 @@
       "title": "용매 없는 건식 제조 공정을 이용한 기체 포집용 흡착제 및 그 제조방법"
     }
   ],
-  "content_sha256": "abbe9dd22a01ed34e4c43066400feae72efa3a712b58d9ce382e7ec5f134f181",
+  "content_sha256": "7f60cd412a72f1b03800240a001da5a873f4a2ea889c8d8c39620235e4c70d42",
   "display_policy": "owner-patent-snapshot@4",
   "groups": [
     {
@@ -2232,31 +2199,9 @@
         "WO"
       ],
       "title": "Method of producing methane gas from gas hydrate by injecting gas"
-    },
-    {
-      "application_ids": [
-        "PA-C4BMSF"
-      ],
-      "id": "PA-C4BMSF",
-      "is_family": false,
-      "jurisdictions": [
-        "SA"
-      ],
-      "title": "Manufacturing Method of Electrified Fiber Sorbent for Electric and Electromagnetic Swing Adsorption Process,"
-    },
-    {
-      "application_ids": [
-        "PA-NN1JXD"
-      ],
-      "id": "PA-NN1JXD",
-      "is_family": false,
-      "jurisdictions": [
-        "EP"
-      ],
-      "title": "Manufacturing Method of Electrified Fiber Sorbent for Electric and Electromagnetic Swing Adsorption Process,"
     }
   ],
-  "release_id": "R-20261109-0918",
+  "release_id": "R-20261111-0838",
   "schema": 1,
-  "selection_sha256": "58f8a66420161f8cc9592c32250a94f5228d095b0bd3d4d2194d50ee408ecf39"
+  "selection_sha256": "5bea4928614341cc2eb0f29d2fe0d11204b3160754f2d69fdfec047cd84f0e82"
 }
