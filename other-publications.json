@@ -1,5 +1,5 @@
 {
-  "content_sha256": "713f9af98f7694ac882addf8216abd98140e0cc421016abd845def9a12d2de9c",
+  "content_sha256": "f2358f142344b190b53853f7cc48fea86494fd7d3bf995a8a094c4f1de2cff88",
   "official_links": {
     "W-2YD2C3": "https://doi.org/10.48550/arxiv.2508.02332",
     "W-36QCZ9": "https://doi.org/10.48550/arxiv.2411.00171",
@@ -266,10 +266,10 @@
       "article_number": null,
       "authors": [
         {
-          "cofirst": null,
-          "corresponding": null,
+          "cofirst": false,
+          "corresponding": true,
           "display": "고동연",
-          "first": null
+          "first": true
         }
       ],
       "doi": null,
@@ -301,14 +301,14 @@
           "first": null
         },
         {
-          "cofirst": null,
-          "corresponding": null,
+          "cofirst": false,
+          "corresponding": false,
           "display": "Dong-Yeun Koh",
-          "first": null
+          "first": false
         },
         {
           "cofirst": null,
-          "corresponding": null,
+          "corresponding": true,
           "display": "Calvin Tsay",
           "first": null
         }
@@ -420,7 +420,7 @@
       "volume": null
     }
   ],
-  "release_id": "R-20261105-1334",
+  "release_id": "R-20261111-0837",
   "schema": 1,
   "section_by_work": {
     "W-2YD2C3": "preprints",
