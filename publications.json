@@ -1,5 +1,5 @@
 {
-  "content_sha256": "908380aef39a08a74bd6f8cc4640bb38e722e6ba2db0deae54bfa189a302c1ee",
+  "content_sha256": "c8cf400b55532358337abf13be127eea9e3627ce20d681ec9c72b3eba033d12c",
   "owner_indices": {
     "W-0C3WSY": [
       0
@@ -435,20 +435,20 @@
           "first": null
         },
         {
-          "cofirst": null,
+          "cofirst": false,
           "corresponding": false,
           "display": "Dong-Yeun Koh",
           "first": false
         },
         {
           "cofirst": null,
-          "corresponding": null,
+          "corresponding": true,
           "display": "Young Cheol Park",
           "first": null
         },
         {
           "cofirst": null,
-          "corresponding": null,
+          "corresponding": true,
           "display": "Hyunuk Kim",
           "first": null
         }
@@ -459,7 +459,7 @@
       "journal": "Chemical Engineering Journal",
       "pages": "164094",
       "published_issue": "2025-07",
-      "published_online": null,
+      "published_online": "2025-05-24",
       "representative": null,
       "schema": 1,
       "title": "Supramolecular absorbent with dynamic motion for high-purity CO2 recovery from air",
@@ -1601,7 +1601,7 @@
           "first": null
         },
         {
-          "cofirst": null,
+          "cofirst": false,
           "corresponding": false,
           "display": "Dong-Yeun Koh",
           "first": false
@@ -2583,7 +2583,7 @@
           "first": null
         },
         {
-          "cofirst": null,
+          "cofirst": false,
           "corresponding": false,
           "display": "Dong-Yeun Koh",
           "first": false
@@ -6040,6 +6040,6 @@
       "volume": "40"
     }
   ],
-  "release_id": "R-20261105-0842",
+  "release_id": "R-20261111-0757",
   "schema": 2
 }
